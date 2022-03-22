@@ -8,17 +8,17 @@
   "hierarchy" : {
     "paths" : [
       [
-        "doc:\/\/SymbolKit\/documentation\/SymbolKit",
-        "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph",
-        "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol",
-        "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol\/Availability",
-        "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol\/Availability\/Domain"
+        "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit",
+        "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph",
+        "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol",
+        "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol\/Availability",
+        "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol\/Availability\/Domain"
       ]
     ]
   },
   "identifier" : {
     "interfaceLanguage" : "swift",
-    "url" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol\/Availability\/Domain\/macCatalystAppExtension"
+    "url" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol\/Availability\/Domain\/macCatalystAppExtension"
   },
   "kind" : "symbol",
   "metadata" : {
@@ -132,7 +132,7 @@
   ]
 , 
 "references": {
-"doc://SymbolKit/documentation/SymbolKit": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit": {
   "abstract" : [
     {
       "text" : "The specification and reference model for the ",
@@ -152,14 +152,14 @@
       "type" : "text"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit",
   "kind" : "symbol",
   "role" : "collection",
   "title" : "SymbolKit",
   "type" : "topic",
   "url" : "\/documentation\/symbolkit"
 },
-"doc://SymbolKit/documentation/SymbolKit/SymbolGraph": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit/SymbolGraph": {
   "abstract" : [
     {
       "text" : "A symbol graph is a set of ",
@@ -214,7 +214,7 @@
       "text" : "SymbolGraph"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph",
   "kind" : "symbol",
   "navigatorTitle" : [
     {
@@ -227,7 +227,7 @@
   "type" : "topic",
   "url" : "\/documentation\/symbolkit\/symbolgraph"
 },
-"doc://SymbolKit/documentation/SymbolKit/SymbolGraph/Symbol": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit/SymbolGraph/Symbol": {
   "abstract" : [
     {
       "text" : "A symbol from a module.",
@@ -248,7 +248,7 @@
       "text" : "Symbol"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol",
   "kind" : "symbol",
   "navigatorTitle" : [
     {
@@ -261,7 +261,7 @@
   "type" : "topic",
   "url" : "\/documentation\/symbolkit\/symbolgraph\/symbol"
 },
-"doc://SymbolKit/documentation/SymbolKit/SymbolGraph/Symbol/Availability": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit/SymbolGraph/Symbol/Availability": {
   "abstract" : [
     {
       "text" : "Availability is described by a ",
@@ -319,7 +319,7 @@
       "text" : "Availability"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol\/Availability",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol\/Availability",
   "kind" : "symbol",
   "navigatorTitle" : [
     {
@@ -332,7 +332,7 @@
   "type" : "topic",
   "url" : "\/documentation\/symbolkit\/symbolgraph\/symbol\/availability"
 },
-"doc://SymbolKit/documentation/SymbolKit/SymbolGraph/Symbol/Availability/Domain": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit/SymbolGraph/Symbol/Availability/Domain": {
   "abstract" : [
     {
       "text" : "A versioned context where a symbol resides.",
@@ -353,7 +353,7 @@
       "text" : "Domain"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol\/Availability\/Domain",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol\/Availability\/Domain",
   "kind" : "symbol",
   "navigatorTitle" : [
     {
@@ -366,7 +366,7 @@
   "type" : "topic",
   "url" : "\/documentation\/symbolkit\/symbolgraph\/symbol\/availability\/domain"
 },
-"doc://SymbolKit/documentation/SymbolKit/SymbolGraph/Symbol/Availability/Domain/macCatalystAppExtension": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit/SymbolGraph/Symbol/Availability/Domain/macCatalystAppExtension": {
   "abstract" : [
     {
       "text" : "An application extension for the Mac Catalyst platform.",
@@ -404,7 +404,7 @@
       "text" : "String"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol\/Availability\/Domain\/macCatalystAppExtension",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol\/Availability\/Domain\/macCatalystAppExtension",
   "kind" : "symbol",
   "role" : "symbol",
   "title" : "macCatalystAppExtension",

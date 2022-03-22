@@ -8,16 +8,16 @@
   "hierarchy" : {
     "paths" : [
       [
-        "doc:\/\/SymbolKit\/documentation\/SymbolKit",
-        "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph",
-        "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol",
-        "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol\/Names-swift.struct"
+        "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit",
+        "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph",
+        "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol",
+        "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol\/Names-swift.struct"
       ]
     ]
   },
   "identifier" : {
     "interfaceLanguage" : "swift",
-    "url" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol\/Names-swift.struct\/init(title:navigator:subHeading:prose:)"
+    "url" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol\/Names-swift.struct\/init(title:navigator:subHeading:prose:)"
   },
   "kind" : "symbol",
   "metadata" : {
@@ -58,24 +58,6 @@
       },
       {
         "kind" : "typeIdentifier",
-        "preciseIdentifier" : "s:9SymbolKit0A5GraphV",
-        "text" : "SymbolGraph"
-      },
-      {
-        "kind" : "text",
-        "text" : "."
-      },
-      {
-        "kind" : "typeIdentifier",
-        "preciseIdentifier" : "s:9SymbolKit0A5GraphV0A0V",
-        "text" : "Symbol"
-      },
-      {
-        "kind" : "text",
-        "text" : "."
-      },
-      {
-        "kind" : "typeIdentifier",
         "preciseIdentifier" : "s:9SymbolKit0A5GraphV0A0V20DeclarationFragmentsV",
         "text" : "DeclarationFragments"
       },
@@ -99,24 +81,6 @@
       {
         "kind" : "text",
         "text" : ": ["
-      },
-      {
-        "kind" : "typeIdentifier",
-        "preciseIdentifier" : "s:9SymbolKit0A5GraphV",
-        "text" : "SymbolGraph"
-      },
-      {
-        "kind" : "text",
-        "text" : "."
-      },
-      {
-        "kind" : "typeIdentifier",
-        "preciseIdentifier" : "s:9SymbolKit0A5GraphV0A0V",
-        "text" : "Symbol"
-      },
-      {
-        "kind" : "text",
-        "text" : "."
       },
       {
         "kind" : "typeIdentifier",
@@ -209,27 +173,7 @@
               "text" : ": ["
             },
             {
-              "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph",
-              "kind" : "typeIdentifier",
-              "preciseIdentifier" : "s:9SymbolKit0A5GraphV",
-              "text" : "SymbolGraph"
-            },
-            {
-              "kind" : "text",
-              "text" : "."
-            },
-            {
-              "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol",
-              "kind" : "typeIdentifier",
-              "preciseIdentifier" : "s:9SymbolKit0A5GraphV0A0V",
-              "text" : "Symbol"
-            },
-            {
-              "kind" : "text",
-              "text" : "."
-            },
-            {
-              "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol\/DeclarationFragments",
+              "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol\/DeclarationFragments",
               "kind" : "typeIdentifier",
               "preciseIdentifier" : "s:9SymbolKit0A5GraphV0A0V20DeclarationFragmentsV",
               "text" : "DeclarationFragments"
@@ -239,7 +183,7 @@
               "text" : "."
             },
             {
-              "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol\/DeclarationFragments\/Fragment",
+              "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol\/DeclarationFragments\/Fragment",
               "kind" : "typeIdentifier",
               "preciseIdentifier" : "s:9SymbolKit0A5GraphV0A0V20DeclarationFragmentsV8FragmentV",
               "text" : "Fragment"
@@ -257,27 +201,7 @@
               "text" : ": ["
             },
             {
-              "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph",
-              "kind" : "typeIdentifier",
-              "preciseIdentifier" : "s:9SymbolKit0A5GraphV",
-              "text" : "SymbolGraph"
-            },
-            {
-              "kind" : "text",
-              "text" : "."
-            },
-            {
-              "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol",
-              "kind" : "typeIdentifier",
-              "preciseIdentifier" : "s:9SymbolKit0A5GraphV0A0V",
-              "text" : "Symbol"
-            },
-            {
-              "kind" : "text",
-              "text" : "."
-            },
-            {
-              "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol\/DeclarationFragments",
+              "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol\/DeclarationFragments",
               "kind" : "typeIdentifier",
               "preciseIdentifier" : "s:9SymbolKit0A5GraphV0A0V20DeclarationFragmentsV",
               "text" : "DeclarationFragments"
@@ -287,7 +211,7 @@
               "text" : "."
             },
             {
-              "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol\/DeclarationFragments\/Fragment",
+              "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol\/DeclarationFragments\/Fragment",
               "kind" : "typeIdentifier",
               "preciseIdentifier" : "s:9SymbolKit0A5GraphV0A0V20DeclarationFragmentsV8FragmentV",
               "text" : "Fragment"
@@ -341,7 +265,7 @@
   ]
 , 
 "references": {
-"doc://SymbolKit/documentation/SymbolKit": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit": {
   "abstract" : [
     {
       "text" : "The specification and reference model for the ",
@@ -361,14 +285,14 @@
       "type" : "text"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit",
   "kind" : "symbol",
   "role" : "collection",
   "title" : "SymbolKit",
   "type" : "topic",
   "url" : "\/documentation\/symbolkit"
 },
-"doc://SymbolKit/documentation/SymbolKit/SymbolGraph": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit/SymbolGraph": {
   "abstract" : [
     {
       "text" : "A symbol graph is a set of ",
@@ -423,7 +347,7 @@
       "text" : "SymbolGraph"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph",
   "kind" : "symbol",
   "navigatorTitle" : [
     {
@@ -436,7 +360,7 @@
   "type" : "topic",
   "url" : "\/documentation\/symbolkit\/symbolgraph"
 },
-"doc://SymbolKit/documentation/SymbolKit/SymbolGraph/Symbol": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit/SymbolGraph/Symbol": {
   "abstract" : [
     {
       "text" : "A symbol from a module.",
@@ -457,7 +381,7 @@
       "text" : "Symbol"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol",
   "kind" : "symbol",
   "navigatorTitle" : [
     {
@@ -470,7 +394,7 @@
   "type" : "topic",
   "url" : "\/documentation\/symbolkit\/symbolgraph\/symbol"
 },
-"doc://SymbolKit/documentation/SymbolKit/SymbolGraph/Symbol/DeclarationFragments": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit/SymbolGraph/Symbol/DeclarationFragments": {
   "abstract" : [
     {
       "text" : "A mix-in that generically describes the fragments",
@@ -507,7 +431,7 @@
       "text" : "DeclarationFragments"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol\/DeclarationFragments",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol\/DeclarationFragments",
   "kind" : "symbol",
   "navigatorTitle" : [
     {
@@ -520,7 +444,7 @@
   "type" : "topic",
   "url" : "\/documentation\/symbolkit\/symbolgraph\/symbol\/declarationfragments"
 },
-"doc://SymbolKit/documentation/SymbolKit/SymbolGraph/Symbol/DeclarationFragments/Fragment": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit/SymbolGraph/Symbol/DeclarationFragments/Fragment": {
   "abstract" : [
     {
       "text" : "A general-purpose fragment of syntax spelling out a declaration.",
@@ -541,7 +465,7 @@
       "text" : "Fragment"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol\/DeclarationFragments\/Fragment",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol\/DeclarationFragments\/Fragment",
   "kind" : "symbol",
   "navigatorTitle" : [
     {
@@ -554,7 +478,7 @@
   "type" : "topic",
   "url" : "\/documentation\/symbolkit\/symbolgraph\/symbol\/declarationfragments\/fragment"
 },
-"doc://SymbolKit/documentation/SymbolKit/SymbolGraph/Symbol/Names-swift.struct": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit/SymbolGraph/Symbol/Names-swift.struct": {
   "abstract" : [
     {
       "text" : "The names of a symbol, suitable for display in various contexts.",
@@ -575,7 +499,7 @@
       "text" : "Names"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol\/Names-swift.struct",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol\/Names-swift.struct",
   "kind" : "symbol",
   "navigatorTitle" : [
     {
@@ -588,7 +512,7 @@
   "type" : "topic",
   "url" : "\/documentation\/symbolkit\/symbolgraph\/symbol\/names-swift.struct"
 },
-"doc://SymbolKit/documentation/SymbolKit/SymbolGraph/Symbol/Names-swift.struct/init(title:navigator:subHeading:prose:)": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit/SymbolGraph/Symbol/Names-swift.struct/init(title:navigator:subHeading:prose:)": {
   "abstract" : [
 
   ],
@@ -628,24 +552,6 @@
     },
     {
       "kind" : "typeIdentifier",
-      "preciseIdentifier" : "s:9SymbolKit0A5GraphV",
-      "text" : "SymbolGraph"
-    },
-    {
-      "kind" : "text",
-      "text" : "."
-    },
-    {
-      "kind" : "typeIdentifier",
-      "preciseIdentifier" : "s:9SymbolKit0A5GraphV0A0V",
-      "text" : "Symbol"
-    },
-    {
-      "kind" : "text",
-      "text" : "."
-    },
-    {
-      "kind" : "typeIdentifier",
       "preciseIdentifier" : "s:9SymbolKit0A5GraphV0A0V20DeclarationFragmentsV",
       "text" : "DeclarationFragments"
     },
@@ -669,24 +575,6 @@
     {
       "kind" : "text",
       "text" : ": ["
-    },
-    {
-      "kind" : "typeIdentifier",
-      "preciseIdentifier" : "s:9SymbolKit0A5GraphV",
-      "text" : "SymbolGraph"
-    },
-    {
-      "kind" : "text",
-      "text" : "."
-    },
-    {
-      "kind" : "typeIdentifier",
-      "preciseIdentifier" : "s:9SymbolKit0A5GraphV0A0V",
-      "text" : "Symbol"
-    },
-    {
-      "kind" : "text",
-      "text" : "."
     },
     {
       "kind" : "typeIdentifier",
@@ -724,7 +612,7 @@
       "text" : "?)"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol\/Names-swift.struct\/init(title:navigator:subHeading:prose:)",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol\/Names-swift.struct\/init(title:navigator:subHeading:prose:)",
   "kind" : "symbol",
   "role" : "symbol",
   "title" : "init(title:navigator:subHeading:prose:)",

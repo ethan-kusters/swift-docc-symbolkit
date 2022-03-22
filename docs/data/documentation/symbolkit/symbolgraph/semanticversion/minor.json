@@ -8,15 +8,15 @@
   "hierarchy" : {
     "paths" : [
       [
-        "doc:\/\/SymbolKit\/documentation\/SymbolKit",
-        "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph",
-        "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/SemanticVersion"
+        "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit",
+        "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph",
+        "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/SemanticVersion"
       ]
     ]
   },
   "identifier" : {
     "interfaceLanguage" : "swift",
-    "url" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/SemanticVersion\/minor"
+    "url" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/SemanticVersion\/minor"
   },
   "kind" : "symbol",
   "metadata" : {
@@ -146,7 +146,7 @@
   ]
 , 
 "references": {
-"doc://SymbolKit/documentation/SymbolKit": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit": {
   "abstract" : [
     {
       "text" : "The specification and reference model for the ",
@@ -166,14 +166,14 @@
       "type" : "text"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit",
   "kind" : "symbol",
   "role" : "collection",
   "title" : "SymbolKit",
   "type" : "topic",
   "url" : "\/documentation\/symbolkit"
 },
-"doc://SymbolKit/documentation/SymbolKit/SymbolGraph": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit/SymbolGraph": {
   "abstract" : [
     {
       "text" : "A symbol graph is a set of ",
@@ -228,7 +228,7 @@
       "text" : "SymbolGraph"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph",
   "kind" : "symbol",
   "navigatorTitle" : [
     {
@@ -241,7 +241,7 @@
   "type" : "topic",
   "url" : "\/documentation\/symbolkit\/symbolgraph"
 },
-"doc://SymbolKit/documentation/SymbolKit/SymbolGraph/SemanticVersion": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit/SymbolGraph/SemanticVersion": {
   "abstract" : [
     {
       "text" : "A ",
@@ -271,7 +271,7 @@
       "text" : "SemanticVersion"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/SemanticVersion",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/SemanticVersion",
   "kind" : "symbol",
   "navigatorTitle" : [
     {
@@ -284,7 +284,7 @@
   "type" : "topic",
   "url" : "\/documentation\/symbolkit\/symbolgraph\/semanticversion"
 },
-"doc://SymbolKit/documentation/SymbolKit/SymbolGraph/SemanticVersion/minor": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit/SymbolGraph/SemanticVersion/minor": {
   "abstract" : [
     {
       "text" : "The minor version number.",
@@ -314,7 +314,7 @@
       "text" : "Int"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/SemanticVersion\/minor",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/SemanticVersion\/minor",
   "kind" : "symbol",
   "role" : "symbol",
   "title" : "minor",

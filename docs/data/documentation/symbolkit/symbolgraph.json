@@ -42,13 +42,13 @@
   "hierarchy" : {
     "paths" : [
       [
-        "doc:\/\/SymbolKit\/documentation\/SymbolKit"
+        "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit"
       ]
     ]
   },
   "identifier" : {
     "interfaceLanguage" : "swift",
-    "url" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph"
+    "url" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph"
   },
   "kind" : "symbol",
   "metadata" : {
@@ -115,8 +115,8 @@
   "relationshipsSections" : [
     {
       "identifiers" : [
-        "doc:\/\/SymbolKit\/Se",
-        "doc:\/\/SymbolKit\/SE"
+        "doc:\/\/org.swift.SymbolKit\/Se",
+        "doc:\/\/org.swift.SymbolKit\/SE"
       ],
       "kind" : "relationships",
       "title" : "Conforms To",
@@ -134,42 +134,42 @@
   "topicSections" : [
     {
       "identifiers" : [
-        "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/LineList",
-        "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Metadata-swift.struct",
-        "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Module-swift.struct",
-        "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/OperatingSystem",
-        "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Platform",
-        "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Relationship",
-        "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/SemanticVersion",
-        "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol"
+        "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/LineList",
+        "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Metadata-swift.struct",
+        "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Module-swift.struct",
+        "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/OperatingSystem",
+        "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Platform",
+        "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Relationship",
+        "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/SemanticVersion",
+        "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol"
       ],
       "title" : "Structures"
     },
     {
       "identifiers" : [
-        "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/init(from:)",
-        "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/init(metadata:module:symbols:relationships:)"
+        "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/init(from:)",
+        "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/init(metadata:module:symbols:relationships:)"
       ],
       "title" : "Initializers"
     },
     {
       "identifiers" : [
-        "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/metadata-swift.property",
-        "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/module-swift.property",
-        "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/relationships",
-        "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/symbols"
+        "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/metadata-swift.property",
+        "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/module-swift.property",
+        "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/relationships",
+        "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/symbols"
       ],
       "title" : "Instance Properties"
     },
     {
       "identifiers" : [
-        "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/encode(to:)"
+        "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/encode(to:)"
       ],
       "title" : "Instance Methods"
     },
     {
       "identifiers" : [
-        "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/CodingKeys"
+        "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/CodingKeys"
       ],
       "title" : "Enumerations"
     }
@@ -188,17 +188,17 @@
   ]
 , 
 "references": {
-"doc://SymbolKit/SE": {
-  "identifier" : "doc:\/\/SymbolKit\/SE",
+"doc://org.swift.SymbolKit/SE": {
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/SE",
   "title" : "Swift.Encodable",
   "type" : "unresolvable"
 },
-"doc://SymbolKit/Se": {
-  "identifier" : "doc:\/\/SymbolKit\/Se",
+"doc://org.swift.SymbolKit/Se": {
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/Se",
   "title" : "Swift.Decodable",
   "type" : "unresolvable"
 },
-"doc://SymbolKit/documentation/SymbolKit": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit": {
   "abstract" : [
     {
       "text" : "The specification and reference model for the ",
@@ -218,14 +218,14 @@
       "type" : "text"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit",
   "kind" : "symbol",
   "role" : "collection",
   "title" : "SymbolKit",
   "type" : "topic",
   "url" : "\/documentation\/symbolkit"
 },
-"doc://SymbolKit/documentation/SymbolKit/SymbolGraph": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit/SymbolGraph": {
   "abstract" : [
     {
       "text" : "A symbol graph is a set of ",
@@ -280,7 +280,7 @@
       "text" : "SymbolGraph"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph",
   "kind" : "symbol",
   "navigatorTitle" : [
     {
@@ -293,7 +293,7 @@
   "type" : "topic",
   "url" : "\/documentation\/symbolkit\/symbolgraph"
 },
-"doc://SymbolKit/documentation/SymbolKit/SymbolGraph/CodingKeys": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit/SymbolGraph/CodingKeys": {
   "abstract" : [
 
   ],
@@ -311,7 +311,7 @@
       "text" : "CodingKeys"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/CodingKeys",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/CodingKeys",
   "kind" : "symbol",
   "navigatorTitle" : [
     {
@@ -324,7 +324,7 @@
   "type" : "topic",
   "url" : "\/documentation\/symbolkit\/symbolgraph\/codingkeys"
 },
-"doc://SymbolKit/documentation/SymbolKit/SymbolGraph/LineList": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit/SymbolGraph/LineList": {
   "abstract" : [
     {
       "text" : "A ",
@@ -353,7 +353,7 @@
       "text" : "LineList"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/LineList",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/LineList",
   "kind" : "symbol",
   "navigatorTitle" : [
     {
@@ -366,7 +366,7 @@
   "type" : "topic",
   "url" : "\/documentation\/symbolkit\/symbolgraph\/linelist"
 },
-"doc://SymbolKit/documentation/SymbolKit/SymbolGraph/Metadata-swift.struct": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit/SymbolGraph/Metadata-swift.struct": {
   "abstract" : [
 
   ],
@@ -384,7 +384,7 @@
       "text" : "Metadata"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Metadata-swift.struct",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Metadata-swift.struct",
   "kind" : "symbol",
   "navigatorTitle" : [
     {
@@ -397,14 +397,14 @@
   "type" : "topic",
   "url" : "\/documentation\/symbolkit\/symbolgraph\/metadata-swift.struct"
 },
-"doc://SymbolKit/documentation/SymbolKit/SymbolGraph/Module-swift.struct": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit/SymbolGraph/Module-swift.struct": {
   "abstract" : [
     {
       "text" : "A ",
       "type" : "text"
     },
     {
-      "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Module-swift.struct",
+      "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Module-swift.struct",
       "isActive" : true,
       "type" : "reference"
     },
@@ -427,7 +427,7 @@
       "text" : "Module"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Module-swift.struct",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Module-swift.struct",
   "kind" : "symbol",
   "navigatorTitle" : [
     {
@@ -440,14 +440,14 @@
   "type" : "topic",
   "url" : "\/documentation\/symbolkit\/symbolgraph\/module-swift.struct"
 },
-"doc://SymbolKit/documentation/SymbolKit/SymbolGraph/OperatingSystem": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit/SymbolGraph/OperatingSystem": {
   "abstract" : [
     {
       "text" : "The operating system intended for a ",
       "type" : "text"
     },
     {
-      "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Module-swift.struct",
+      "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Module-swift.struct",
       "isActive" : true,
       "type" : "reference"
     },
@@ -470,7 +470,7 @@
       "text" : "OperatingSystem"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/OperatingSystem",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/OperatingSystem",
   "kind" : "symbol",
   "navigatorTitle" : [
     {
@@ -483,14 +483,14 @@
   "type" : "topic",
   "url" : "\/documentation\/symbolkit\/symbolgraph\/operatingsystem"
 },
-"doc://SymbolKit/documentation/SymbolKit/SymbolGraph/Platform": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit/SymbolGraph/Platform": {
   "abstract" : [
     {
       "text" : "A ",
       "type" : "text"
     },
     {
-      "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Platform",
+      "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Platform",
       "isActive" : true,
       "type" : "reference"
     },
@@ -499,7 +499,7 @@
       "type" : "text"
     },
     {
-      "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Module-swift.struct",
+      "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Module-swift.struct",
       "isActive" : true,
       "type" : "reference"
     },
@@ -522,7 +522,7 @@
       "text" : "Platform"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Platform",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Platform",
   "kind" : "symbol",
   "navigatorTitle" : [
     {
@@ -535,7 +535,7 @@
   "type" : "topic",
   "url" : "\/documentation\/symbolkit\/symbolgraph\/platform"
 },
-"doc://SymbolKit/documentation/SymbolKit/SymbolGraph/Relationship": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit/SymbolGraph/Relationship": {
   "abstract" : [
     {
       "text" : "A relationship between two ",
@@ -564,7 +564,7 @@
       "text" : "Relationship"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Relationship",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Relationship",
   "kind" : "symbol",
   "navigatorTitle" : [
     {
@@ -577,7 +577,7 @@
   "type" : "topic",
   "url" : "\/documentation\/symbolkit\/symbolgraph\/relationship"
 },
-"doc://SymbolKit/documentation/SymbolKit/SymbolGraph/SemanticVersion": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit/SymbolGraph/SemanticVersion": {
   "abstract" : [
     {
       "text" : "A ",
@@ -607,7 +607,7 @@
       "text" : "SemanticVersion"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/SemanticVersion",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/SemanticVersion",
   "kind" : "symbol",
   "navigatorTitle" : [
     {
@@ -620,7 +620,7 @@
   "type" : "topic",
   "url" : "\/documentation\/symbolkit\/symbolgraph\/semanticversion"
 },
-"doc://SymbolKit/documentation/SymbolKit/SymbolGraph/Symbol": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit/SymbolGraph/Symbol": {
   "abstract" : [
     {
       "text" : "A symbol from a module.",
@@ -641,7 +641,7 @@
       "text" : "Symbol"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol",
   "kind" : "symbol",
   "navigatorTitle" : [
     {
@@ -654,7 +654,7 @@
   "type" : "topic",
   "url" : "\/documentation\/symbolkit\/symbolgraph\/symbol"
 },
-"doc://SymbolKit/documentation/SymbolKit/SymbolGraph/encode(to:)": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit/SymbolGraph/encode(to:)": {
   "abstract" : [
 
   ],
@@ -697,14 +697,14 @@
       "text" : "throws"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/encode(to:)",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/encode(to:)",
   "kind" : "symbol",
   "role" : "symbol",
   "title" : "encode(to:)",
   "type" : "topic",
   "url" : "\/documentation\/symbolkit\/symbolgraph\/encode(to:)"
 },
-"doc://SymbolKit/documentation/SymbolKit/SymbolGraph/init(from:)": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit/SymbolGraph/init(from:)": {
   "abstract" : [
 
   ],
@@ -739,14 +739,14 @@
       "text" : "throws"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/init(from:)",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/init(from:)",
   "kind" : "symbol",
   "role" : "symbol",
   "title" : "init(from:)",
   "type" : "topic",
   "url" : "\/documentation\/symbolkit\/symbolgraph\/init(from:)"
 },
-"doc://SymbolKit/documentation/SymbolKit/SymbolGraph/init(metadata:module:symbols:relationships:)": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit/SymbolGraph/init(metadata:module:symbols:relationships:)": {
   "abstract" : [
 
   ],
@@ -769,15 +769,6 @@
     },
     {
       "kind" : "typeIdentifier",
-      "preciseIdentifier" : "s:9SymbolKit0A5GraphV",
-      "text" : "SymbolGraph"
-    },
-    {
-      "kind" : "text",
-      "text" : "."
-    },
-    {
-      "kind" : "typeIdentifier",
       "preciseIdentifier" : "s:9SymbolKit0A5GraphV8MetadataV",
       "text" : "Metadata"
     },
@@ -792,15 +783,6 @@
     {
       "kind" : "text",
       "text" : ": "
-    },
-    {
-      "kind" : "typeIdentifier",
-      "preciseIdentifier" : "s:9SymbolKit0A5GraphV",
-      "text" : "SymbolGraph"
-    },
-    {
-      "kind" : "text",
-      "text" : "."
     },
     {
       "kind" : "typeIdentifier",
@@ -821,15 +803,6 @@
     },
     {
       "kind" : "typeIdentifier",
-      "preciseIdentifier" : "s:9SymbolKit0A5GraphV",
-      "text" : "SymbolGraph"
-    },
-    {
-      "kind" : "text",
-      "text" : "."
-    },
-    {
-      "kind" : "typeIdentifier",
       "preciseIdentifier" : "s:9SymbolKit0A5GraphV0A0V",
       "text" : "Symbol"
     },
@@ -847,15 +820,6 @@
     },
     {
       "kind" : "typeIdentifier",
-      "preciseIdentifier" : "s:9SymbolKit0A5GraphV",
-      "text" : "SymbolGraph"
-    },
-    {
-      "kind" : "text",
-      "text" : "."
-    },
-    {
-      "kind" : "typeIdentifier",
       "preciseIdentifier" : "s:9SymbolKit0A5GraphV12RelationshipV",
       "text" : "Relationship"
     },
@@ -864,14 +828,14 @@
       "text" : "])"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/init(metadata:module:symbols:relationships:)",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/init(metadata:module:symbols:relationships:)",
   "kind" : "symbol",
   "role" : "symbol",
   "title" : "init(metadata:module:symbols:relationships:)",
   "type" : "topic",
   "url" : "\/documentation\/symbolkit\/symbolgraph\/init(metadata:module:symbols:relationships:)"
 },
-"doc://SymbolKit/documentation/SymbolKit/SymbolGraph/metadata-swift.property": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit/SymbolGraph/metadata-swift.property": {
   "abstract" : [
     {
       "text" : "Metadata about the symbol graph.",
@@ -897,27 +861,18 @@
     },
     {
       "kind" : "typeIdentifier",
-      "preciseIdentifier" : "s:9SymbolKit0A5GraphV",
-      "text" : "SymbolGraph"
-    },
-    {
-      "kind" : "text",
-      "text" : "."
-    },
-    {
-      "kind" : "typeIdentifier",
       "preciseIdentifier" : "s:9SymbolKit0A5GraphV8MetadataV",
       "text" : "Metadata"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/metadata-swift.property",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/metadata-swift.property",
   "kind" : "symbol",
   "role" : "symbol",
   "title" : "metadata",
   "type" : "topic",
   "url" : "\/documentation\/symbolkit\/symbolgraph\/metadata-swift.property"
 },
-"doc://SymbolKit/documentation/SymbolKit/SymbolGraph/module-swift.property": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit/SymbolGraph/module-swift.property": {
   "abstract" : [
     {
       "text" : "The module that this symbol graph represents.",
@@ -943,27 +898,18 @@
     },
     {
       "kind" : "typeIdentifier",
-      "preciseIdentifier" : "s:9SymbolKit0A5GraphV",
-      "text" : "SymbolGraph"
-    },
-    {
-      "kind" : "text",
-      "text" : "."
-    },
-    {
-      "kind" : "typeIdentifier",
       "preciseIdentifier" : "s:9SymbolKit0A5GraphV6ModuleV",
       "text" : "Module"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/module-swift.property",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/module-swift.property",
   "kind" : "symbol",
   "role" : "symbol",
   "title" : "module",
   "type" : "topic",
   "url" : "\/documentation\/symbolkit\/symbolgraph\/module-swift.property"
 },
-"doc://SymbolKit/documentation/SymbolKit/SymbolGraph/relationships": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit/SymbolGraph/relationships": {
   "abstract" : [
     {
       "text" : "The relationships between symbols: the edges in a graph.",
@@ -989,15 +935,6 @@
     },
     {
       "kind" : "typeIdentifier",
-      "preciseIdentifier" : "s:9SymbolKit0A5GraphV",
-      "text" : "SymbolGraph"
-    },
-    {
-      "kind" : "text",
-      "text" : "."
-    },
-    {
-      "kind" : "typeIdentifier",
       "preciseIdentifier" : "s:9SymbolKit0A5GraphV12RelationshipV",
       "text" : "Relationship"
     },
@@ -1006,14 +943,14 @@
       "text" : "]"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/relationships",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/relationships",
   "kind" : "symbol",
   "role" : "symbol",
   "title" : "relationships",
   "type" : "topic",
   "url" : "\/documentation\/symbolkit\/symbolgraph\/relationships"
 },
-"doc://SymbolKit/documentation/SymbolKit/SymbolGraph/symbols": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit/SymbolGraph/symbols": {
   "abstract" : [
     {
       "text" : "The symbols in a module: the nodes in a graph, mapped by precise identifier.",
@@ -1048,15 +985,6 @@
     },
     {
       "kind" : "typeIdentifier",
-      "preciseIdentifier" : "s:9SymbolKit0A5GraphV",
-      "text" : "SymbolGraph"
-    },
-    {
-      "kind" : "text",
-      "text" : "."
-    },
-    {
-      "kind" : "typeIdentifier",
       "preciseIdentifier" : "s:9SymbolKit0A5GraphV0A0V",
       "text" : "Symbol"
     },
@@ -1065,7 +993,7 @@
       "text" : "]"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/symbols",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/symbols",
   "kind" : "symbol",
   "role" : "symbol",
   "title" : "symbols",

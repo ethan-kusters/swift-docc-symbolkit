@@ -8,17 +8,17 @@
   "hierarchy" : {
     "paths" : [
       [
-        "doc:\/\/SymbolKit\/documentation\/SymbolKit",
-        "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph",
-        "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol",
-        "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol\/Swift",
-        "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol\/Swift\/GenericConstraint"
+        "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit",
+        "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph",
+        "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol",
+        "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol\/Swift",
+        "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol\/Swift\/GenericConstraint"
       ]
     ]
   },
   "identifier" : {
     "interfaceLanguage" : "swift",
-    "url" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol\/Swift\/GenericConstraint\/Kind-swift.enum"
+    "url" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol\/Swift\/GenericConstraint\/Kind-swift.enum"
   },
   "kind" : "symbol",
   "metadata" : {
@@ -85,11 +85,11 @@
   "relationshipsSections" : [
     {
       "identifiers" : [
-        "doc:\/\/SymbolKit\/Se",
-        "doc:\/\/SymbolKit\/SE",
-        "doc:\/\/SymbolKit\/SQ",
-        "doc:\/\/SymbolKit\/SH",
-        "doc:\/\/SymbolKit\/SY"
+        "doc:\/\/org.swift.SymbolKit\/Se",
+        "doc:\/\/org.swift.SymbolKit\/SE",
+        "doc:\/\/org.swift.SymbolKit\/SQ",
+        "doc:\/\/org.swift.SymbolKit\/SH",
+        "doc:\/\/org.swift.SymbolKit\/SY"
       ],
       "kind" : "relationships",
       "title" : "Conforms To",
@@ -107,23 +107,23 @@
   "topicSections" : [
     {
       "identifiers" : [
-        "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol\/Swift\/GenericConstraint\/Kind-swift.enum\/conformance",
-        "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol\/Swift\/GenericConstraint\/Kind-swift.enum\/sameType",
-        "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol\/Swift\/GenericConstraint\/Kind-swift.enum\/superclass"
+        "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol\/Swift\/GenericConstraint\/Kind-swift.enum\/conformance",
+        "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol\/Swift\/GenericConstraint\/Kind-swift.enum\/sameType",
+        "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol\/Swift\/GenericConstraint\/Kind-swift.enum\/superclass"
       ],
       "title" : "Enumeration Cases"
     },
     {
       "identifiers" : [
-        "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol\/Swift\/GenericConstraint\/Kind-swift.enum\/init(rawValue:)"
+        "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol\/Swift\/GenericConstraint\/Kind-swift.enum\/init(rawValue:)"
       ],
       "title" : "Initializers"
     },
     {
       "generated" : true,
       "identifiers" : [
-        "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol\/Swift\/GenericConstraint\/Kind-swift.enum\/Equatable-Implementations",
-        "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol\/Swift\/GenericConstraint\/Kind-swift.enum\/RawRepresentable-Implementations"
+        "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol\/Swift\/GenericConstraint\/Kind-swift.enum\/Equatable-Implementations",
+        "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol\/Swift\/GenericConstraint\/Kind-swift.enum\/RawRepresentable-Implementations"
       ],
       "title" : "Default Implementations"
     }
@@ -142,32 +142,32 @@
   ]
 , 
 "references": {
-"doc://SymbolKit/SE": {
-  "identifier" : "doc:\/\/SymbolKit\/SE",
+"doc://org.swift.SymbolKit/SE": {
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/SE",
   "title" : "Swift.Encodable",
   "type" : "unresolvable"
 },
-"doc://SymbolKit/SH": {
-  "identifier" : "doc:\/\/SymbolKit\/SH",
+"doc://org.swift.SymbolKit/SH": {
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/SH",
   "title" : "Swift.Hashable",
   "type" : "unresolvable"
 },
-"doc://SymbolKit/SQ": {
-  "identifier" : "doc:\/\/SymbolKit\/SQ",
+"doc://org.swift.SymbolKit/SQ": {
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/SQ",
   "title" : "Swift.Equatable",
   "type" : "unresolvable"
 },
-"doc://SymbolKit/SY": {
-  "identifier" : "doc:\/\/SymbolKit\/SY",
+"doc://org.swift.SymbolKit/SY": {
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/SY",
   "title" : "Swift.RawRepresentable",
   "type" : "unresolvable"
 },
-"doc://SymbolKit/Se": {
-  "identifier" : "doc:\/\/SymbolKit\/Se",
+"doc://org.swift.SymbolKit/Se": {
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/Se",
   "title" : "Swift.Decodable",
   "type" : "unresolvable"
 },
-"doc://SymbolKit/documentation/SymbolKit": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit": {
   "abstract" : [
     {
       "text" : "The specification and reference model for the ",
@@ -187,14 +187,14 @@
       "type" : "text"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit",
   "kind" : "symbol",
   "role" : "collection",
   "title" : "SymbolKit",
   "type" : "topic",
   "url" : "\/documentation\/symbolkit"
 },
-"doc://SymbolKit/documentation/SymbolKit/SymbolGraph": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit/SymbolGraph": {
   "abstract" : [
     {
       "text" : "A symbol graph is a set of ",
@@ -249,7 +249,7 @@
       "text" : "SymbolGraph"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph",
   "kind" : "symbol",
   "navigatorTitle" : [
     {
@@ -262,7 +262,7 @@
   "type" : "topic",
   "url" : "\/documentation\/symbolkit\/symbolgraph"
 },
-"doc://SymbolKit/documentation/SymbolKit/SymbolGraph/Symbol": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit/SymbolGraph/Symbol": {
   "abstract" : [
     {
       "text" : "A symbol from a module.",
@@ -283,7 +283,7 @@
       "text" : "Symbol"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol",
   "kind" : "symbol",
   "navigatorTitle" : [
     {
@@ -296,7 +296,7 @@
   "type" : "topic",
   "url" : "\/documentation\/symbolkit\/symbolgraph\/symbol"
 },
-"doc://SymbolKit/documentation/SymbolKit/SymbolGraph/Symbol/Swift": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit/SymbolGraph/Symbol/Swift": {
   "abstract" : [
     {
       "text" : "A namespace for Swift-specific data.",
@@ -317,7 +317,7 @@
       "text" : "Swift"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol\/Swift",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol\/Swift",
   "kind" : "symbol",
   "navigatorTitle" : [
     {
@@ -330,7 +330,7 @@
   "type" : "topic",
   "url" : "\/documentation\/symbolkit\/symbolgraph\/symbol\/swift"
 },
-"doc://SymbolKit/documentation/SymbolKit/SymbolGraph/Symbol/Swift/GenericConstraint": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit/SymbolGraph/Symbol/Swift/GenericConstraint": {
   "abstract" : [
     {
       "text" : "A generic constraint between two types.",
@@ -351,7 +351,7 @@
       "text" : "GenericConstraint"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol\/Swift\/GenericConstraint",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol\/Swift\/GenericConstraint",
   "kind" : "symbol",
   "navigatorTitle" : [
     {
@@ -364,7 +364,7 @@
   "type" : "topic",
   "url" : "\/documentation\/symbolkit\/symbolgraph\/symbol\/swift\/genericconstraint"
 },
-"doc://SymbolKit/documentation/SymbolKit/SymbolGraph/Symbol/Swift/GenericConstraint/Kind-swift.enum": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit/SymbolGraph/Symbol/Swift/GenericConstraint/Kind-swift.enum": {
   "abstract" : [
 
   ],
@@ -382,7 +382,7 @@
       "text" : "Kind"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol\/Swift\/GenericConstraint\/Kind-swift.enum",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol\/Swift\/GenericConstraint\/Kind-swift.enum",
   "kind" : "symbol",
   "navigatorTitle" : [
     {
@@ -395,29 +395,29 @@
   "type" : "topic",
   "url" : "\/documentation\/symbolkit\/symbolgraph\/symbol\/swift\/genericconstraint\/kind-swift.enum"
 },
-"doc://SymbolKit/documentation/SymbolKit/SymbolGraph/Symbol/Swift/GenericConstraint/Kind-swift.enum/Equatable-Implementations": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit/SymbolGraph/Symbol/Swift/GenericConstraint/Kind-swift.enum/Equatable-Implementations": {
   "abstract" : [
 
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol\/Swift\/GenericConstraint\/Kind-swift.enum\/Equatable-Implementations",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol\/Swift\/GenericConstraint\/Kind-swift.enum\/Equatable-Implementations",
   "kind" : "article",
   "role" : "collectionGroup",
   "title" : "Equatable Implementations",
   "type" : "topic",
   "url" : "\/documentation\/symbolkit\/symbolgraph\/symbol\/swift\/genericconstraint\/kind-swift.enum\/equatable-implementations"
 },
-"doc://SymbolKit/documentation/SymbolKit/SymbolGraph/Symbol/Swift/GenericConstraint/Kind-swift.enum/RawRepresentable-Implementations": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit/SymbolGraph/Symbol/Swift/GenericConstraint/Kind-swift.enum/RawRepresentable-Implementations": {
   "abstract" : [
 
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol\/Swift\/GenericConstraint\/Kind-swift.enum\/RawRepresentable-Implementations",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol\/Swift\/GenericConstraint\/Kind-swift.enum\/RawRepresentable-Implementations",
   "kind" : "article",
   "role" : "collectionGroup",
   "title" : "RawRepresentable Implementations",
   "type" : "topic",
   "url" : "\/documentation\/symbolkit\/symbolgraph\/symbol\/swift\/genericconstraint\/kind-swift.enum\/rawrepresentable-implementations"
 },
-"doc://SymbolKit/documentation/SymbolKit/SymbolGraph/Symbol/Swift/GenericConstraint/Kind-swift.enum/conformance": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit/SymbolGraph/Symbol/Swift/GenericConstraint/Kind-swift.enum/conformance": {
   "abstract" : [
     {
       "text" : "A conformance constraint, such as:",
@@ -438,14 +438,14 @@
       "text" : "conformance"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol\/Swift\/GenericConstraint\/Kind-swift.enum\/conformance",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol\/Swift\/GenericConstraint\/Kind-swift.enum\/conformance",
   "kind" : "symbol",
   "role" : "symbol",
   "title" : "SymbolGraph.Symbol.Swift.GenericConstraint.Kind.conformance",
   "type" : "topic",
   "url" : "\/documentation\/symbolkit\/symbolgraph\/symbol\/swift\/genericconstraint\/kind-swift.enum\/conformance"
 },
-"doc://SymbolKit/documentation/SymbolKit/SymbolGraph/Symbol/Swift/GenericConstraint/Kind-swift.enum/init(rawValue:)": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit/SymbolGraph/Symbol/Swift/GenericConstraint/Kind-swift.enum/init(rawValue:)": {
   "abstract" : [
 
   ],
@@ -476,14 +476,14 @@
       "text" : ")"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol\/Swift\/GenericConstraint\/Kind-swift.enum\/init(rawValue:)",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol\/Swift\/GenericConstraint\/Kind-swift.enum\/init(rawValue:)",
   "kind" : "symbol",
   "role" : "symbol",
   "title" : "init(rawValue:)",
   "type" : "topic",
   "url" : "\/documentation\/symbolkit\/symbolgraph\/symbol\/swift\/genericconstraint\/kind-swift.enum\/init(rawvalue:)"
 },
-"doc://SymbolKit/documentation/SymbolKit/SymbolGraph/Symbol/Swift/GenericConstraint/Kind-swift.enum/sameType": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit/SymbolGraph/Symbol/Swift/GenericConstraint/Kind-swift.enum/sameType": {
   "abstract" : [
     {
       "text" : "A same-type constraint, such as:",
@@ -504,14 +504,14 @@
       "text" : "sameType"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol\/Swift\/GenericConstraint\/Kind-swift.enum\/sameType",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol\/Swift\/GenericConstraint\/Kind-swift.enum\/sameType",
   "kind" : "symbol",
   "role" : "symbol",
   "title" : "SymbolGraph.Symbol.Swift.GenericConstraint.Kind.sameType",
   "type" : "topic",
   "url" : "\/documentation\/symbolkit\/symbolgraph\/symbol\/swift\/genericconstraint\/kind-swift.enum\/sametype"
 },
-"doc://SymbolKit/documentation/SymbolKit/SymbolGraph/Symbol/Swift/GenericConstraint/Kind-swift.enum/superclass": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit/SymbolGraph/Symbol/Swift/GenericConstraint/Kind-swift.enum/superclass": {
   "abstract" : [
     {
       "text" : "A superclass constraint, such as:",
@@ -532,7 +532,7 @@
       "text" : "superclass"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol\/Swift\/GenericConstraint\/Kind-swift.enum\/superclass",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol\/Swift\/GenericConstraint\/Kind-swift.enum\/superclass",
   "kind" : "symbol",
   "role" : "symbol",
   "title" : "SymbolGraph.Symbol.Swift.GenericConstraint.Kind.superclass",

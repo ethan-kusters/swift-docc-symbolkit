@@ -8,16 +8,16 @@
   "hierarchy" : {
     "paths" : [
       [
-        "doc:\/\/SymbolKit\/documentation\/SymbolKit",
-        "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph",
-        "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol",
-        "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol\/Availability"
+        "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit",
+        "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph",
+        "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol",
+        "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol\/Availability"
       ]
     ]
   },
   "identifier" : {
     "interfaceLanguage" : "swift",
-    "url" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol\/Availability\/AvailabilityItem"
+    "url" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol\/Availability\/AvailabilityItem"
   },
   "kind" : "symbol",
   "metadata" : {
@@ -85,8 +85,8 @@
   "relationshipsSections" : [
     {
       "identifiers" : [
-        "doc:\/\/SymbolKit\/Se",
-        "doc:\/\/SymbolKit\/SE"
+        "doc:\/\/org.swift.SymbolKit\/Se",
+        "doc:\/\/org.swift.SymbolKit\/SE"
       ],
       "kind" : "relationships",
       "title" : "Conforms To",
@@ -104,28 +104,28 @@
   "topicSections" : [
     {
       "identifiers" : [
-        "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol\/Availability\/AvailabilityItem\/init(domain:introducedVersion:deprecatedVersion:obsoletedVersion:message:renamed:isUnconditionallyDeprecated:isUnconditionallyUnavailable:willEventuallyBeDeprecated:)",
-        "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol\/Availability\/AvailabilityItem\/init(from:)"
+        "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol\/Availability\/AvailabilityItem\/init(domain:introducedVersion:deprecatedVersion:obsoletedVersion:message:renamed:isUnconditionallyDeprecated:isUnconditionallyUnavailable:willEventuallyBeDeprecated:)",
+        "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol\/Availability\/AvailabilityItem\/init(from:)"
       ],
       "title" : "Initializers"
     },
     {
       "identifiers" : [
-        "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol\/Availability\/AvailabilityItem\/deprecatedVersion",
-        "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol\/Availability\/AvailabilityItem\/domain",
-        "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol\/Availability\/AvailabilityItem\/introducedVersion",
-        "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol\/Availability\/AvailabilityItem\/isUnconditionallyDeprecated",
-        "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol\/Availability\/AvailabilityItem\/isUnconditionallyUnavailable",
-        "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol\/Availability\/AvailabilityItem\/message",
-        "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol\/Availability\/AvailabilityItem\/obsoletedVersion",
-        "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol\/Availability\/AvailabilityItem\/renamed",
-        "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol\/Availability\/AvailabilityItem\/willEventuallyBeDeprecated"
+        "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol\/Availability\/AvailabilityItem\/deprecatedVersion",
+        "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol\/Availability\/AvailabilityItem\/domain",
+        "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol\/Availability\/AvailabilityItem\/introducedVersion",
+        "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol\/Availability\/AvailabilityItem\/isUnconditionallyDeprecated",
+        "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol\/Availability\/AvailabilityItem\/isUnconditionallyUnavailable",
+        "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol\/Availability\/AvailabilityItem\/message",
+        "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol\/Availability\/AvailabilityItem\/obsoletedVersion",
+        "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol\/Availability\/AvailabilityItem\/renamed",
+        "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol\/Availability\/AvailabilityItem\/willEventuallyBeDeprecated"
       ],
       "title" : "Instance Properties"
     },
     {
       "identifiers" : [
-        "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol\/Availability\/AvailabilityItem\/encode(to:)"
+        "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol\/Availability\/AvailabilityItem\/encode(to:)"
       ],
       "title" : "Instance Methods"
     }
@@ -144,17 +144,17 @@
   ]
 , 
 "references": {
-"doc://SymbolKit/SE": {
-  "identifier" : "doc:\/\/SymbolKit\/SE",
+"doc://org.swift.SymbolKit/SE": {
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/SE",
   "title" : "Swift.Encodable",
   "type" : "unresolvable"
 },
-"doc://SymbolKit/Se": {
-  "identifier" : "doc:\/\/SymbolKit\/Se",
+"doc://org.swift.SymbolKit/Se": {
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/Se",
   "title" : "Swift.Decodable",
   "type" : "unresolvable"
 },
-"doc://SymbolKit/documentation/SymbolKit": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit": {
   "abstract" : [
     {
       "text" : "The specification and reference model for the ",
@@ -174,14 +174,14 @@
       "type" : "text"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit",
   "kind" : "symbol",
   "role" : "collection",
   "title" : "SymbolKit",
   "type" : "topic",
   "url" : "\/documentation\/symbolkit"
 },
-"doc://SymbolKit/documentation/SymbolKit/SymbolGraph": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit/SymbolGraph": {
   "abstract" : [
     {
       "text" : "A symbol graph is a set of ",
@@ -236,7 +236,7 @@
       "text" : "SymbolGraph"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph",
   "kind" : "symbol",
   "navigatorTitle" : [
     {
@@ -249,7 +249,7 @@
   "type" : "topic",
   "url" : "\/documentation\/symbolkit\/symbolgraph"
 },
-"doc://SymbolKit/documentation/SymbolKit/SymbolGraph/Symbol": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit/SymbolGraph/Symbol": {
   "abstract" : [
     {
       "text" : "A symbol from a module.",
@@ -270,7 +270,7 @@
       "text" : "Symbol"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol",
   "kind" : "symbol",
   "navigatorTitle" : [
     {
@@ -283,7 +283,7 @@
   "type" : "topic",
   "url" : "\/documentation\/symbolkit\/symbolgraph\/symbol"
 },
-"doc://SymbolKit/documentation/SymbolKit/SymbolGraph/Symbol/Availability": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit/SymbolGraph/Symbol/Availability": {
   "abstract" : [
     {
       "text" : "Availability is described by a ",
@@ -341,7 +341,7 @@
       "text" : "Availability"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol\/Availability",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol\/Availability",
   "kind" : "symbol",
   "navigatorTitle" : [
     {
@@ -354,7 +354,7 @@
   "type" : "topic",
   "url" : "\/documentation\/symbolkit\/symbolgraph\/symbol\/availability"
 },
-"doc://SymbolKit/documentation/SymbolKit/SymbolGraph/Symbol/Availability/AvailabilityItem": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit/SymbolGraph/Symbol/Availability/AvailabilityItem": {
   "abstract" : [
     {
       "text" : "Availability of a symbol in a particular domain.",
@@ -375,7 +375,7 @@
       "text" : "AvailabilityItem"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol\/Availability\/AvailabilityItem",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol\/Availability\/AvailabilityItem",
   "kind" : "symbol",
   "navigatorTitle" : [
     {
@@ -388,7 +388,7 @@
   "type" : "topic",
   "url" : "\/documentation\/symbolkit\/symbolgraph\/symbol\/availability\/availabilityitem"
 },
-"doc://SymbolKit/documentation/SymbolKit/SymbolGraph/Symbol/Availability/AvailabilityItem/deprecatedVersion": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit/SymbolGraph/Symbol/Availability/AvailabilityItem/deprecatedVersion": {
   "abstract" : [
     {
       "text" : "The version in which a symbol was deprecated.",
@@ -431,14 +431,14 @@
       "text" : "?"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol\/Availability\/AvailabilityItem\/deprecatedVersion",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol\/Availability\/AvailabilityItem\/deprecatedVersion",
   "kind" : "symbol",
   "role" : "symbol",
   "title" : "deprecatedVersion",
   "type" : "topic",
   "url" : "\/documentation\/symbolkit\/symbolgraph\/symbol\/availability\/availabilityitem\/deprecatedversion"
 },
-"doc://SymbolKit/documentation/SymbolKit/SymbolGraph/Symbol/Availability/AvailabilityItem/domain": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit/SymbolGraph/Symbol/Availability/AvailabilityItem/domain": {
   "abstract" : [
     {
       "text" : "The domain in which this availability applies; if undefined, applies to all reasonable domains.",
@@ -464,33 +464,6 @@
     },
     {
       "kind" : "typeIdentifier",
-      "preciseIdentifier" : "s:9SymbolKit0A5GraphV",
-      "text" : "SymbolGraph"
-    },
-    {
-      "kind" : "text",
-      "text" : "."
-    },
-    {
-      "kind" : "typeIdentifier",
-      "preciseIdentifier" : "s:9SymbolKit0A5GraphV0A0V",
-      "text" : "Symbol"
-    },
-    {
-      "kind" : "text",
-      "text" : "."
-    },
-    {
-      "kind" : "typeIdentifier",
-      "preciseIdentifier" : "s:9SymbolKit0A5GraphV0A0V12AvailabilityV",
-      "text" : "Availability"
-    },
-    {
-      "kind" : "text",
-      "text" : "."
-    },
-    {
-      "kind" : "typeIdentifier",
       "preciseIdentifier" : "s:9SymbolKit0A5GraphV0A0V12AvailabilityV6DomainV",
       "text" : "Domain"
     },
@@ -499,14 +472,14 @@
       "text" : "?"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol\/Availability\/AvailabilityItem\/domain",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol\/Availability\/AvailabilityItem\/domain",
   "kind" : "symbol",
   "role" : "symbol",
   "title" : "domain",
   "type" : "topic",
   "url" : "\/documentation\/symbolkit\/symbolgraph\/symbol\/availability\/availabilityitem\/domain"
 },
-"doc://SymbolKit/documentation/SymbolKit/SymbolGraph/Symbol/Availability/AvailabilityItem/encode(to:)": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit/SymbolGraph/Symbol/Availability/AvailabilityItem/encode(to:)": {
   "abstract" : [
 
   ],
@@ -549,14 +522,14 @@
       "text" : "throws"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol\/Availability\/AvailabilityItem\/encode(to:)",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol\/Availability\/AvailabilityItem\/encode(to:)",
   "kind" : "symbol",
   "role" : "symbol",
   "title" : "encode(to:)",
   "type" : "topic",
   "url" : "\/documentation\/symbolkit\/symbolgraph\/symbol\/availability\/availabilityitem\/encode(to:)"
 },
-"doc://SymbolKit/documentation/SymbolKit/SymbolGraph/Symbol/Availability/AvailabilityItem/init(domain:introducedVersion:deprecatedVersion:obsoletedVersion:message:renamed:isUnconditionallyDeprecated:isUnconditionallyUnavailable:willEventuallyBeDeprecated:)": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit/SymbolGraph/Symbol/Availability/AvailabilityItem/init(domain:introducedVersion:deprecatedVersion:obsoletedVersion:message:renamed:isUnconditionallyDeprecated:isUnconditionallyUnavailable:willEventuallyBeDeprecated:)": {
   "abstract" : [
 
   ],
@@ -777,14 +750,14 @@
       "text" : ")"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol\/Availability\/AvailabilityItem\/init(domain:introducedVersion:deprecatedVersion:obsoletedVersion:message:renamed:isUnconditionallyDeprecated:isUnconditionallyUnavailable:willEventuallyBeDeprecated:)",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol\/Availability\/AvailabilityItem\/init(domain:introducedVersion:deprecatedVersion:obsoletedVersion:message:renamed:isUnconditionallyDeprecated:isUnconditionallyUnavailable:willEventuallyBeDeprecated:)",
   "kind" : "symbol",
   "role" : "symbol",
   "title" : "init(domain:introducedVersion:deprecatedVersion:obsoletedVersion:message:renamed:isUnconditionallyDeprecated:isUnconditionallyUnavailable:willEventuallyBeDeprecated:)",
   "type" : "topic",
   "url" : "\/documentation\/symbolkit\/symbolgraph\/symbol\/availability\/availabilityitem\/init(domain:introducedversion:deprecatedversion:obsoletedversion:message:renamed:isunconditionallydeprecated:isunconditionallyunavailable:willeventuallybedeprecated:)"
 },
-"doc://SymbolKit/documentation/SymbolKit/SymbolGraph/Symbol/Availability/AvailabilityItem/init(from:)": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit/SymbolGraph/Symbol/Availability/AvailabilityItem/init(from:)": {
   "abstract" : [
 
   ],
@@ -819,14 +792,14 @@
       "text" : "throws"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol\/Availability\/AvailabilityItem\/init(from:)",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol\/Availability\/AvailabilityItem\/init(from:)",
   "kind" : "symbol",
   "role" : "symbol",
   "title" : "init(from:)",
   "type" : "topic",
   "url" : "\/documentation\/symbolkit\/symbolgraph\/symbol\/availability\/availabilityitem\/init(from:)"
 },
-"doc://SymbolKit/documentation/SymbolKit/SymbolGraph/Symbol/Availability/AvailabilityItem/introducedVersion": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit/SymbolGraph/Symbol/Availability/AvailabilityItem/introducedVersion": {
   "abstract" : [
     {
       "text" : "The version in which a symbol appeared.",
@@ -869,14 +842,14 @@
       "text" : "?"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol\/Availability\/AvailabilityItem\/introducedVersion",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol\/Availability\/AvailabilityItem\/introducedVersion",
   "kind" : "symbol",
   "role" : "symbol",
   "title" : "introducedVersion",
   "type" : "topic",
   "url" : "\/documentation\/symbolkit\/symbolgraph\/symbol\/availability\/availabilityitem\/introducedversion"
 },
-"doc://SymbolKit/documentation/SymbolKit/SymbolGraph/Symbol/Availability/AvailabilityItem/isUnconditionallyDeprecated": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit/SymbolGraph/Symbol/Availability/AvailabilityItem/isUnconditionallyDeprecated": {
   "abstract" : [
     {
       "text" : "If defined and ",
@@ -938,14 +911,14 @@
       "text" : "Bool"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol\/Availability\/AvailabilityItem\/isUnconditionallyDeprecated",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol\/Availability\/AvailabilityItem\/isUnconditionallyDeprecated",
   "kind" : "symbol",
   "role" : "symbol",
   "title" : "isUnconditionallyDeprecated",
   "type" : "topic",
   "url" : "\/documentation\/symbolkit\/symbolgraph\/symbol\/availability\/availabilityitem\/isunconditionallydeprecated"
 },
-"doc://SymbolKit/documentation/SymbolKit/SymbolGraph/Symbol/Availability/AvailabilityItem/isUnconditionallyUnavailable": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit/SymbolGraph/Symbol/Availability/AvailabilityItem/isUnconditionallyUnavailable": {
   "abstract" : [
     {
       "text" : "If defined and ",
@@ -1007,14 +980,14 @@
       "text" : "Bool"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol\/Availability\/AvailabilityItem\/isUnconditionallyUnavailable",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol\/Availability\/AvailabilityItem\/isUnconditionallyUnavailable",
   "kind" : "symbol",
   "role" : "symbol",
   "title" : "isUnconditionallyUnavailable",
   "type" : "topic",
   "url" : "\/documentation\/symbolkit\/symbolgraph\/symbol\/availability\/availabilityitem\/isunconditionallyunavailable"
 },
-"doc://SymbolKit/documentation/SymbolKit/SymbolGraph/Symbol/Availability/AvailabilityItem/message": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit/SymbolGraph/Symbol/Availability/AvailabilityItem/message": {
   "abstract" : [
     {
       "text" : "A message further describing availability for documentation purposes.",
@@ -1048,14 +1021,14 @@
       "text" : "?"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol\/Availability\/AvailabilityItem\/message",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol\/Availability\/AvailabilityItem\/message",
   "kind" : "symbol",
   "role" : "symbol",
   "title" : "message",
   "type" : "topic",
   "url" : "\/documentation\/symbolkit\/symbolgraph\/symbol\/availability\/availabilityitem\/message"
 },
-"doc://SymbolKit/documentation/SymbolKit/SymbolGraph/Symbol/Availability/AvailabilityItem/obsoletedVersion": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit/SymbolGraph/Symbol/Availability/AvailabilityItem/obsoletedVersion": {
   "abstract" : [
     {
       "text" : "The version in which a symbol was obsoleted.",
@@ -1098,14 +1071,14 @@
       "text" : "?"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol\/Availability\/AvailabilityItem\/obsoletedVersion",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol\/Availability\/AvailabilityItem\/obsoletedVersion",
   "kind" : "symbol",
   "role" : "symbol",
   "title" : "obsoletedVersion",
   "type" : "topic",
   "url" : "\/documentation\/symbolkit\/symbolgraph\/symbol\/availability\/availabilityitem\/obsoletedversion"
 },
-"doc://SymbolKit/documentation/SymbolKit/SymbolGraph/Symbol/Availability/AvailabilityItem/renamed": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit/SymbolGraph/Symbol/Availability/AvailabilityItem/renamed": {
   "abstract" : [
     {
       "text" : "If a symbol was renamed at this point, its new name is given here.",
@@ -1139,14 +1112,14 @@
       "text" : "?"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol\/Availability\/AvailabilityItem\/renamed",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol\/Availability\/AvailabilityItem\/renamed",
   "kind" : "symbol",
   "role" : "symbol",
   "title" : "renamed",
   "type" : "topic",
   "url" : "\/documentation\/symbolkit\/symbolgraph\/symbol\/availability\/availabilityitem\/renamed"
 },
-"doc://SymbolKit/documentation/SymbolKit/SymbolGraph/Symbol/Availability/AvailabilityItem/willEventuallyBeDeprecated": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit/SymbolGraph/Symbol/Availability/AvailabilityItem/willEventuallyBeDeprecated": {
   "abstract" : [
     {
       "text" : "A formal but lenient indication that this symbol will definitely be deprecated",
@@ -1205,7 +1178,7 @@
       "text" : "Bool"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol\/Availability\/AvailabilityItem\/willEventuallyBeDeprecated",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol\/Availability\/AvailabilityItem\/willEventuallyBeDeprecated",
   "kind" : "symbol",
   "role" : "symbol",
   "title" : "willEventuallyBeDeprecated",

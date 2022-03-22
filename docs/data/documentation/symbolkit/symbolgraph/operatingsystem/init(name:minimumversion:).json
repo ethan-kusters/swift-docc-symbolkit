@@ -8,15 +8,15 @@
   "hierarchy" : {
     "paths" : [
       [
-        "doc:\/\/SymbolKit\/documentation\/SymbolKit",
-        "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph",
-        "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/OperatingSystem"
+        "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit",
+        "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph",
+        "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/OperatingSystem"
       ]
     ]
   },
   "identifier" : {
     "interfaceLanguage" : "swift",
-    "url" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/OperatingSystem\/init(name:minimumVersion:)"
+    "url" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/OperatingSystem\/init(name:minimumVersion:)"
   },
   "kind" : "symbol",
   "metadata" : {
@@ -54,15 +54,6 @@
       {
         "kind" : "text",
         "text" : ": "
-      },
-      {
-        "kind" : "typeIdentifier",
-        "preciseIdentifier" : "s:9SymbolKit0A5GraphV",
-        "text" : "SymbolGraph"
-      },
-      {
-        "kind" : "text",
-        "text" : "."
       },
       {
         "kind" : "typeIdentifier",
@@ -129,17 +120,7 @@
               "text" : ": "
             },
             {
-              "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph",
-              "kind" : "typeIdentifier",
-              "preciseIdentifier" : "s:9SymbolKit0A5GraphV",
-              "text" : "SymbolGraph"
-            },
-            {
-              "kind" : "text",
-              "text" : "."
-            },
-            {
-              "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/SemanticVersion",
+              "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/SemanticVersion",
               "kind" : "typeIdentifier",
               "preciseIdentifier" : "s:9SymbolKit0A5GraphV15SemanticVersionV",
               "text" : "SemanticVersion"
@@ -176,7 +157,7 @@
   ]
 , 
 "references": {
-"doc://SymbolKit/documentation/SymbolKit": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit": {
   "abstract" : [
     {
       "text" : "The specification and reference model for the ",
@@ -196,14 +177,14 @@
       "type" : "text"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit",
   "kind" : "symbol",
   "role" : "collection",
   "title" : "SymbolKit",
   "type" : "topic",
   "url" : "\/documentation\/symbolkit"
 },
-"doc://SymbolKit/documentation/SymbolKit/SymbolGraph": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit/SymbolGraph": {
   "abstract" : [
     {
       "text" : "A symbol graph is a set of ",
@@ -258,7 +239,7 @@
       "text" : "SymbolGraph"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph",
   "kind" : "symbol",
   "navigatorTitle" : [
     {
@@ -271,14 +252,14 @@
   "type" : "topic",
   "url" : "\/documentation\/symbolkit\/symbolgraph"
 },
-"doc://SymbolKit/documentation/SymbolKit/SymbolGraph/Module-swift.struct": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit/SymbolGraph/Module-swift.struct": {
   "abstract" : [
     {
       "text" : "A ",
       "type" : "text"
     },
     {
-      "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Module-swift.struct",
+      "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Module-swift.struct",
       "isActive" : true,
       "type" : "reference"
     },
@@ -301,7 +282,7 @@
       "text" : "Module"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Module-swift.struct",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Module-swift.struct",
   "kind" : "symbol",
   "navigatorTitle" : [
     {
@@ -314,14 +295,14 @@
   "type" : "topic",
   "url" : "\/documentation\/symbolkit\/symbolgraph\/module-swift.struct"
 },
-"doc://SymbolKit/documentation/SymbolKit/SymbolGraph/OperatingSystem": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit/SymbolGraph/OperatingSystem": {
   "abstract" : [
     {
       "text" : "The operating system intended for a ",
       "type" : "text"
     },
     {
-      "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Module-swift.struct",
+      "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Module-swift.struct",
       "isActive" : true,
       "type" : "reference"
     },
@@ -344,7 +325,7 @@
       "text" : "OperatingSystem"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/OperatingSystem",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/OperatingSystem",
   "kind" : "symbol",
   "navigatorTitle" : [
     {
@@ -357,7 +338,7 @@
   "type" : "topic",
   "url" : "\/documentation\/symbolkit\/symbolgraph\/operatingsystem"
 },
-"doc://SymbolKit/documentation/SymbolKit/SymbolGraph/OperatingSystem/init(name:minimumVersion:)": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit/SymbolGraph/OperatingSystem/init(name:minimumVersion:)": {
   "abstract" : [
 
   ],
@@ -397,15 +378,6 @@
     },
     {
       "kind" : "typeIdentifier",
-      "preciseIdentifier" : "s:9SymbolKit0A5GraphV",
-      "text" : "SymbolGraph"
-    },
-    {
-      "kind" : "text",
-      "text" : "."
-    },
-    {
-      "kind" : "typeIdentifier",
       "preciseIdentifier" : "s:9SymbolKit0A5GraphV15SemanticVersionV",
       "text" : "SemanticVersion"
     },
@@ -414,14 +386,14 @@
       "text" : "?)"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/OperatingSystem\/init(name:minimumVersion:)",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/OperatingSystem\/init(name:minimumVersion:)",
   "kind" : "symbol",
   "role" : "symbol",
   "title" : "init(name:minimumVersion:)",
   "type" : "topic",
   "url" : "\/documentation\/symbolkit\/symbolgraph\/operatingsystem\/init(name:minimumversion:)"
 },
-"doc://SymbolKit/documentation/SymbolKit/SymbolGraph/SemanticVersion": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit/SymbolGraph/SemanticVersion": {
   "abstract" : [
     {
       "text" : "A ",
@@ -451,7 +423,7 @@
       "text" : "SemanticVersion"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/SemanticVersion",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/SemanticVersion",
   "kind" : "symbol",
   "navigatorTitle" : [
     {

@@ -5,7 +5,7 @@
       "type" : "text"
     },
     {
-      "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Module-swift.struct",
+      "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Module-swift.struct",
       "isActive" : true,
       "type" : "reference"
     },
@@ -17,14 +17,14 @@
   "hierarchy" : {
     "paths" : [
       [
-        "doc:\/\/SymbolKit\/documentation\/SymbolKit",
-        "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph"
+        "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit",
+        "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph"
       ]
     ]
   },
   "identifier" : {
     "interfaceLanguage" : "swift",
-    "url" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/OperatingSystem"
+    "url" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/OperatingSystem"
   },
   "kind" : "symbol",
   "metadata" : {
@@ -92,8 +92,8 @@
   "relationshipsSections" : [
     {
       "identifiers" : [
-        "doc:\/\/SymbolKit\/Se",
-        "doc:\/\/SymbolKit\/SE"
+        "doc:\/\/org.swift.SymbolKit\/Se",
+        "doc:\/\/org.swift.SymbolKit\/SE"
       ],
       "kind" : "relationships",
       "title" : "Conforms To",
@@ -111,15 +111,15 @@
   "topicSections" : [
     {
       "identifiers" : [
-        "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/OperatingSystem\/init(from:)",
-        "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/OperatingSystem\/init(name:minimumVersion:)"
+        "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/OperatingSystem\/init(from:)",
+        "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/OperatingSystem\/init(name:minimumVersion:)"
       ],
       "title" : "Initializers"
     },
     {
       "identifiers" : [
-        "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/OperatingSystem\/minimumVersion",
-        "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/OperatingSystem\/name"
+        "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/OperatingSystem\/minimumVersion",
+        "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/OperatingSystem\/name"
       ],
       "title" : "Instance Properties"
     }
@@ -138,17 +138,17 @@
   ]
 , 
 "references": {
-"doc://SymbolKit/SE": {
-  "identifier" : "doc:\/\/SymbolKit\/SE",
+"doc://org.swift.SymbolKit/SE": {
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/SE",
   "title" : "Swift.Encodable",
   "type" : "unresolvable"
 },
-"doc://SymbolKit/Se": {
-  "identifier" : "doc:\/\/SymbolKit\/Se",
+"doc://org.swift.SymbolKit/Se": {
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/Se",
   "title" : "Swift.Decodable",
   "type" : "unresolvable"
 },
-"doc://SymbolKit/documentation/SymbolKit": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit": {
   "abstract" : [
     {
       "text" : "The specification and reference model for the ",
@@ -168,14 +168,14 @@
       "type" : "text"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit",
   "kind" : "symbol",
   "role" : "collection",
   "title" : "SymbolKit",
   "type" : "topic",
   "url" : "\/documentation\/symbolkit"
 },
-"doc://SymbolKit/documentation/SymbolKit/SymbolGraph": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit/SymbolGraph": {
   "abstract" : [
     {
       "text" : "A symbol graph is a set of ",
@@ -230,7 +230,7 @@
       "text" : "SymbolGraph"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph",
   "kind" : "symbol",
   "navigatorTitle" : [
     {
@@ -243,14 +243,14 @@
   "type" : "topic",
   "url" : "\/documentation\/symbolkit\/symbolgraph"
 },
-"doc://SymbolKit/documentation/SymbolKit/SymbolGraph/Module-swift.struct": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit/SymbolGraph/Module-swift.struct": {
   "abstract" : [
     {
       "text" : "A ",
       "type" : "text"
     },
     {
-      "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Module-swift.struct",
+      "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Module-swift.struct",
       "isActive" : true,
       "type" : "reference"
     },
@@ -273,7 +273,7 @@
       "text" : "Module"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Module-swift.struct",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Module-swift.struct",
   "kind" : "symbol",
   "navigatorTitle" : [
     {
@@ -286,14 +286,14 @@
   "type" : "topic",
   "url" : "\/documentation\/symbolkit\/symbolgraph\/module-swift.struct"
 },
-"doc://SymbolKit/documentation/SymbolKit/SymbolGraph/OperatingSystem": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit/SymbolGraph/OperatingSystem": {
   "abstract" : [
     {
       "text" : "The operating system intended for a ",
       "type" : "text"
     },
     {
-      "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Module-swift.struct",
+      "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Module-swift.struct",
       "isActive" : true,
       "type" : "reference"
     },
@@ -316,7 +316,7 @@
       "text" : "OperatingSystem"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/OperatingSystem",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/OperatingSystem",
   "kind" : "symbol",
   "navigatorTitle" : [
     {
@@ -329,7 +329,7 @@
   "type" : "topic",
   "url" : "\/documentation\/symbolkit\/symbolgraph\/operatingsystem"
 },
-"doc://SymbolKit/documentation/SymbolKit/SymbolGraph/OperatingSystem/init(from:)": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit/SymbolGraph/OperatingSystem/init(from:)": {
   "abstract" : [
 
   ],
@@ -364,14 +364,14 @@
       "text" : "throws"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/OperatingSystem\/init(from:)",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/OperatingSystem\/init(from:)",
   "kind" : "symbol",
   "role" : "symbol",
   "title" : "init(from:)",
   "type" : "topic",
   "url" : "\/documentation\/symbolkit\/symbolgraph\/operatingsystem\/init(from:)"
 },
-"doc://SymbolKit/documentation/SymbolKit/SymbolGraph/OperatingSystem/init(name:minimumVersion:)": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit/SymbolGraph/OperatingSystem/init(name:minimumVersion:)": {
   "abstract" : [
 
   ],
@@ -411,15 +411,6 @@
     },
     {
       "kind" : "typeIdentifier",
-      "preciseIdentifier" : "s:9SymbolKit0A5GraphV",
-      "text" : "SymbolGraph"
-    },
-    {
-      "kind" : "text",
-      "text" : "."
-    },
-    {
-      "kind" : "typeIdentifier",
       "preciseIdentifier" : "s:9SymbolKit0A5GraphV15SemanticVersionV",
       "text" : "SemanticVersion"
     },
@@ -428,14 +419,14 @@
       "text" : "?)"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/OperatingSystem\/init(name:minimumVersion:)",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/OperatingSystem\/init(name:minimumVersion:)",
   "kind" : "symbol",
   "role" : "symbol",
   "title" : "init(name:minimumVersion:)",
   "type" : "topic",
   "url" : "\/documentation\/symbolkit\/symbolgraph\/operatingsystem\/init(name:minimumversion:)"
 },
-"doc://SymbolKit/documentation/SymbolKit/SymbolGraph/OperatingSystem/minimumVersion": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit/SymbolGraph/OperatingSystem/minimumVersion": {
   "abstract" : [
     {
       "text" : "The intended minimum version of the operating system. If no specific version",
@@ -469,15 +460,6 @@
     },
     {
       "kind" : "typeIdentifier",
-      "preciseIdentifier" : "s:9SymbolKit0A5GraphV",
-      "text" : "SymbolGraph"
-    },
-    {
-      "kind" : "text",
-      "text" : "."
-    },
-    {
-      "kind" : "typeIdentifier",
       "preciseIdentifier" : "s:9SymbolKit0A5GraphV15SemanticVersionV",
       "text" : "SemanticVersion"
     },
@@ -486,14 +468,14 @@
       "text" : "?"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/OperatingSystem\/minimumVersion",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/OperatingSystem\/minimumVersion",
   "kind" : "symbol",
   "role" : "symbol",
   "title" : "minimumVersion",
   "type" : "topic",
   "url" : "\/documentation\/symbolkit\/symbolgraph\/operatingsystem\/minimumversion"
 },
-"doc://SymbolKit/documentation/SymbolKit/SymbolGraph/OperatingSystem/name": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit/SymbolGraph/OperatingSystem/name": {
   "abstract" : [
     {
       "text" : "The name of the operating system, such as ",
@@ -539,7 +521,7 @@
       "text" : "String"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/OperatingSystem\/name",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/OperatingSystem\/name",
   "kind" : "symbol",
   "role" : "symbol",
   "title" : "name",

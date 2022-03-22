@@ -16,14 +16,14 @@
   "hierarchy" : {
     "paths" : [
       [
-        "doc:\/\/SymbolKit\/documentation\/SymbolKit",
-        "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph"
+        "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit",
+        "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph"
       ]
     ]
   },
   "identifier" : {
     "interfaceLanguage" : "swift",
-    "url" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/LineList"
+    "url" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/LineList"
   },
   "kind" : "symbol",
   "metadata" : {
@@ -249,9 +249,9 @@
   "relationshipsSections" : [
     {
       "identifiers" : [
-        "doc:\/\/SymbolKit\/Se",
-        "doc:\/\/SymbolKit\/SE",
-        "doc:\/\/SymbolKit\/SQ"
+        "doc:\/\/org.swift.SymbolKit\/Se",
+        "doc:\/\/org.swift.SymbolKit\/SE",
+        "doc:\/\/org.swift.SymbolKit\/SQ"
       ],
       "kind" : "relationships",
       "title" : "Conforms To",
@@ -269,35 +269,35 @@
   "topicSections" : [
     {
       "identifiers" : [
-        "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/LineList\/Line",
-        "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/LineList\/SourceRange"
+        "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/LineList\/Line",
+        "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/LineList\/SourceRange"
       ],
       "title" : "Structures"
     },
     {
       "identifiers" : [
-        "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/LineList\/init(_:)",
-        "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/LineList\/init(from:)"
+        "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/LineList\/init(_:)",
+        "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/LineList\/init(from:)"
       ],
       "title" : "Initializers"
     },
     {
       "identifiers" : [
-        "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/LineList\/lines"
+        "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/LineList\/lines"
       ],
       "title" : "Instance Properties"
     },
     {
       "identifiers" : [
-        "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/LineList\/translateToFileSpace(_:)-4tk1b",
-        "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/LineList\/translateToFileSpace(_:)-9dlzx"
+        "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/LineList\/translateToFileSpace(_:)-4tk1b",
+        "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/LineList\/translateToFileSpace(_:)-9dlzx"
       ],
       "title" : "Instance Methods"
     },
     {
       "generated" : true,
       "identifiers" : [
-        "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/LineList\/Equatable-Implementations"
+        "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/LineList\/Equatable-Implementations"
       ],
       "title" : "Default Implementations"
     }
@@ -316,22 +316,22 @@
   ]
 , 
 "references": {
-"doc://SymbolKit/SE": {
-  "identifier" : "doc:\/\/SymbolKit\/SE",
+"doc://org.swift.SymbolKit/SE": {
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/SE",
   "title" : "Swift.Encodable",
   "type" : "unresolvable"
 },
-"doc://SymbolKit/SQ": {
-  "identifier" : "doc:\/\/SymbolKit\/SQ",
+"doc://org.swift.SymbolKit/SQ": {
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/SQ",
   "title" : "Swift.Equatable",
   "type" : "unresolvable"
 },
-"doc://SymbolKit/Se": {
-  "identifier" : "doc:\/\/SymbolKit\/Se",
+"doc://org.swift.SymbolKit/Se": {
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/Se",
   "title" : "Swift.Decodable",
   "type" : "unresolvable"
 },
-"doc://SymbolKit/documentation/SymbolKit": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit": {
   "abstract" : [
     {
       "text" : "The specification and reference model for the ",
@@ -351,14 +351,14 @@
       "type" : "text"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit",
   "kind" : "symbol",
   "role" : "collection",
   "title" : "SymbolKit",
   "type" : "topic",
   "url" : "\/documentation\/symbolkit"
 },
-"doc://SymbolKit/documentation/SymbolKit/SymbolGraph": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit/SymbolGraph": {
   "abstract" : [
     {
       "text" : "A symbol graph is a set of ",
@@ -413,7 +413,7 @@
       "text" : "SymbolGraph"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph",
   "kind" : "symbol",
   "navigatorTitle" : [
     {
@@ -426,7 +426,7 @@
   "type" : "topic",
   "url" : "\/documentation\/symbolkit\/symbolgraph"
 },
-"doc://SymbolKit/documentation/SymbolKit/SymbolGraph/LineList": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit/SymbolGraph/LineList": {
   "abstract" : [
     {
       "text" : "A ",
@@ -455,7 +455,7 @@
       "text" : "LineList"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/LineList",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/LineList",
   "kind" : "symbol",
   "navigatorTitle" : [
     {
@@ -468,18 +468,18 @@
   "type" : "topic",
   "url" : "\/documentation\/symbolkit\/symbolgraph\/linelist"
 },
-"doc://SymbolKit/documentation/SymbolKit/SymbolGraph/LineList/Equatable-Implementations": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit/SymbolGraph/LineList/Equatable-Implementations": {
   "abstract" : [
 
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/LineList\/Equatable-Implementations",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/LineList\/Equatable-Implementations",
   "kind" : "article",
   "role" : "collectionGroup",
   "title" : "Equatable Implementations",
   "type" : "topic",
   "url" : "\/documentation\/symbolkit\/symbolgraph\/linelist\/equatable-implementations"
 },
-"doc://SymbolKit/documentation/SymbolKit/SymbolGraph/LineList/Line": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit/SymbolGraph/LineList/Line": {
   "abstract" : [
     {
       "text" : "A line extracted from text.",
@@ -500,7 +500,7 @@
       "text" : "Line"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/LineList\/Line",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/LineList\/Line",
   "kind" : "symbol",
   "navigatorTitle" : [
     {
@@ -513,7 +513,7 @@
   "type" : "topic",
   "url" : "\/documentation\/symbolkit\/symbolgraph\/linelist\/line"
 },
-"doc://SymbolKit/documentation/SymbolKit/SymbolGraph/LineList/SourceRange": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit/SymbolGraph/LineList/SourceRange": {
   "abstract" : [
     {
       "text" : "Represents a selection in text: a start and end position, a half-open range.",
@@ -534,7 +534,7 @@
       "text" : "SourceRange"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/LineList\/SourceRange",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/LineList\/SourceRange",
   "kind" : "symbol",
   "navigatorTitle" : [
     {
@@ -547,7 +547,7 @@
   "type" : "topic",
   "url" : "\/documentation\/symbolkit\/symbolgraph\/linelist\/sourcerange"
 },
-"doc://SymbolKit/documentation/SymbolKit/SymbolGraph/LineList/init(_:)": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit/SymbolGraph/LineList/init(_:)": {
   "abstract" : [
 
   ],
@@ -562,24 +562,6 @@
     },
     {
       "kind" : "typeIdentifier",
-      "preciseIdentifier" : "s:9SymbolKit0A5GraphV",
-      "text" : "SymbolGraph"
-    },
-    {
-      "kind" : "text",
-      "text" : "."
-    },
-    {
-      "kind" : "typeIdentifier",
-      "preciseIdentifier" : "s:9SymbolKit0A5GraphV8LineListV",
-      "text" : "LineList"
-    },
-    {
-      "kind" : "text",
-      "text" : "."
-    },
-    {
-      "kind" : "typeIdentifier",
       "preciseIdentifier" : "s:9SymbolKit0A5GraphV8LineListV0D0V",
       "text" : "Line"
     },
@@ -588,14 +570,14 @@
       "text" : "])"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/LineList\/init(_:)",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/LineList\/init(_:)",
   "kind" : "symbol",
   "role" : "symbol",
   "title" : "init(_:)",
   "type" : "topic",
   "url" : "\/documentation\/symbolkit\/symbolgraph\/linelist\/init(_:)"
 },
-"doc://SymbolKit/documentation/SymbolKit/SymbolGraph/LineList/init(from:)": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit/SymbolGraph/LineList/init(from:)": {
   "abstract" : [
 
   ],
@@ -630,14 +612,14 @@
       "text" : "throws"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/LineList\/init(from:)",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/LineList\/init(from:)",
   "kind" : "symbol",
   "role" : "symbol",
   "title" : "init(from:)",
   "type" : "topic",
   "url" : "\/documentation\/symbolkit\/symbolgraph\/linelist\/init(from:)"
 },
-"doc://SymbolKit/documentation/SymbolKit/SymbolGraph/LineList/lines": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit/SymbolGraph/LineList/lines": {
   "abstract" : [
     {
       "text" : "The lines making up this line list.",
@@ -663,24 +645,6 @@
     },
     {
       "kind" : "typeIdentifier",
-      "preciseIdentifier" : "s:9SymbolKit0A5GraphV",
-      "text" : "SymbolGraph"
-    },
-    {
-      "kind" : "text",
-      "text" : "."
-    },
-    {
-      "kind" : "typeIdentifier",
-      "preciseIdentifier" : "s:9SymbolKit0A5GraphV8LineListV",
-      "text" : "LineList"
-    },
-    {
-      "kind" : "text",
-      "text" : "."
-    },
-    {
-      "kind" : "typeIdentifier",
       "preciseIdentifier" : "s:9SymbolKit0A5GraphV8LineListV0D0V",
       "text" : "Line"
     },
@@ -689,14 +653,14 @@
       "text" : "]"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/LineList\/lines",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/LineList\/lines",
   "kind" : "symbol",
   "role" : "symbol",
   "title" : "lines",
   "type" : "topic",
   "url" : "\/documentation\/symbolkit\/symbolgraph\/linelist\/lines"
 },
-"doc://SymbolKit/documentation/SymbolKit/SymbolGraph/LineList/translateToFileSpace(_:)-4tk1b": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit/SymbolGraph/LineList/translateToFileSpace(_:)-4tk1b": {
   "abstract" : [
     {
       "text" : "Translate a range from its ",
@@ -748,48 +712,12 @@
     },
     {
       "kind" : "typeIdentifier",
-      "preciseIdentifier" : "s:9SymbolKit0A5GraphV",
-      "text" : "SymbolGraph"
-    },
-    {
-      "kind" : "text",
-      "text" : "."
-    },
-    {
-      "kind" : "typeIdentifier",
-      "preciseIdentifier" : "s:9SymbolKit0A5GraphV8LineListV",
-      "text" : "LineList"
-    },
-    {
-      "kind" : "text",
-      "text" : "."
-    },
-    {
-      "kind" : "typeIdentifier",
       "preciseIdentifier" : "s:9SymbolKit0A5GraphV8LineListV11SourceRangeV",
       "text" : "SourceRange"
     },
     {
       "kind" : "text",
       "text" : ") -> "
-    },
-    {
-      "kind" : "typeIdentifier",
-      "preciseIdentifier" : "s:9SymbolKit0A5GraphV",
-      "text" : "SymbolGraph"
-    },
-    {
-      "kind" : "text",
-      "text" : "."
-    },
-    {
-      "kind" : "typeIdentifier",
-      "preciseIdentifier" : "s:9SymbolKit0A5GraphV8LineListV",
-      "text" : "LineList"
-    },
-    {
-      "kind" : "text",
-      "text" : "."
     },
     {
       "kind" : "typeIdentifier",
@@ -801,14 +729,14 @@
       "text" : "?"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/LineList\/translateToFileSpace(_:)-4tk1b",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/LineList\/translateToFileSpace(_:)-4tk1b",
   "kind" : "symbol",
   "role" : "symbol",
   "title" : "translateToFileSpace(_:)",
   "type" : "topic",
   "url" : "\/documentation\/symbolkit\/symbolgraph\/linelist\/translatetofilespace(_:)-4tk1b"
 },
-"doc://SymbolKit/documentation/SymbolKit/SymbolGraph/LineList/translateToFileSpace(_:)-9dlzx": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit/SymbolGraph/LineList/translateToFileSpace(_:)-9dlzx": {
   "abstract" : [
     {
       "text" : "Translate a position from its ",
@@ -860,24 +788,6 @@
     },
     {
       "kind" : "typeIdentifier",
-      "preciseIdentifier" : "s:9SymbolKit0A5GraphV",
-      "text" : "SymbolGraph"
-    },
-    {
-      "kind" : "text",
-      "text" : "."
-    },
-    {
-      "kind" : "typeIdentifier",
-      "preciseIdentifier" : "s:9SymbolKit0A5GraphV8LineListV",
-      "text" : "LineList"
-    },
-    {
-      "kind" : "text",
-      "text" : "."
-    },
-    {
-      "kind" : "typeIdentifier",
       "preciseIdentifier" : "s:9SymbolKit0A5GraphV8LineListV11SourceRangeV",
       "text" : "SourceRange"
     },
@@ -893,24 +803,6 @@
     {
       "kind" : "text",
       "text" : ") -> "
-    },
-    {
-      "kind" : "typeIdentifier",
-      "preciseIdentifier" : "s:9SymbolKit0A5GraphV",
-      "text" : "SymbolGraph"
-    },
-    {
-      "kind" : "text",
-      "text" : "."
-    },
-    {
-      "kind" : "typeIdentifier",
-      "preciseIdentifier" : "s:9SymbolKit0A5GraphV8LineListV",
-      "text" : "LineList"
-    },
-    {
-      "kind" : "text",
-      "text" : "."
     },
     {
       "kind" : "typeIdentifier",
@@ -931,7 +823,7 @@
       "text" : "?"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/LineList\/translateToFileSpace(_:)-9dlzx",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/LineList\/translateToFileSpace(_:)-9dlzx",
   "kind" : "symbol",
   "role" : "symbol",
   "title" : "translateToFileSpace(_:)",

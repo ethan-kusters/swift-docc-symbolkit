@@ -8,15 +8,15 @@
   "hierarchy" : {
     "paths" : [
       [
-        "doc:\/\/SymbolKit\/documentation\/SymbolKit",
-        "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph",
-        "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol"
+        "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit",
+        "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph",
+        "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol"
       ]
     ]
   },
   "identifier" : {
     "interfaceLanguage" : "swift",
-    "url" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol\/Location"
+    "url" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol\/Location"
   },
   "kind" : "symbol",
   "metadata" : {
@@ -112,9 +112,9 @@
   "relationshipsSections" : [
     {
       "identifiers" : [
-        "doc:\/\/SymbolKit\/documentation\/SymbolKit\/Mixin",
-        "doc:\/\/SymbolKit\/Se",
-        "doc:\/\/SymbolKit\/SE"
+        "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/Mixin",
+        "doc:\/\/org.swift.SymbolKit\/Se",
+        "doc:\/\/org.swift.SymbolKit\/SE"
       ],
       "kind" : "relationships",
       "title" : "Conforms To",
@@ -132,21 +132,21 @@
   "topicSections" : [
     {
       "identifiers" : [
-        "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol\/Location\/init(from:)",
-        "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol\/Location\/init(uri:position:)"
+        "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol\/Location\/init(from:)",
+        "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol\/Location\/init(uri:position:)"
       ],
       "title" : "Initializers"
     },
     {
       "identifiers" : [
-        "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol\/Location\/position",
-        "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol\/Location\/uri"
+        "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol\/Location\/position",
+        "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol\/Location\/uri"
       ],
       "title" : "Instance Properties"
     },
     {
       "identifiers" : [
-        "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol\/Location\/mixinKey"
+        "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol\/Location\/mixinKey"
       ],
       "title" : "Type Properties"
     }
@@ -165,17 +165,17 @@
   ]
 , 
 "references": {
-"doc://SymbolKit/SE": {
-  "identifier" : "doc:\/\/SymbolKit\/SE",
+"doc://org.swift.SymbolKit/SE": {
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/SE",
   "title" : "Swift.Encodable",
   "type" : "unresolvable"
 },
-"doc://SymbolKit/Se": {
-  "identifier" : "doc:\/\/SymbolKit\/Se",
+"doc://org.swift.SymbolKit/Se": {
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/Se",
   "title" : "Swift.Decodable",
   "type" : "unresolvable"
 },
-"doc://SymbolKit/documentation/SymbolKit": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit": {
   "abstract" : [
     {
       "text" : "The specification and reference model for the ",
@@ -195,14 +195,14 @@
       "type" : "text"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit",
   "kind" : "symbol",
   "role" : "collection",
   "title" : "SymbolKit",
   "type" : "topic",
   "url" : "\/documentation\/symbolkit"
 },
-"doc://SymbolKit/documentation/SymbolKit/Mixin": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit/Mixin": {
   "abstract" : [
     {
       "text" : "A protocol that allows extracted symbols to have extra data",
@@ -217,7 +217,7 @@
       "type" : "text"
     },
     {
-      "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol",
+      "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol",
       "isActive" : true,
       "type" : "reference"
     },
@@ -240,7 +240,7 @@
       "text" : "Mixin"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/Mixin",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/Mixin",
   "kind" : "symbol",
   "navigatorTitle" : [
     {
@@ -253,7 +253,7 @@
   "type" : "topic",
   "url" : "\/documentation\/symbolkit\/mixin"
 },
-"doc://SymbolKit/documentation/SymbolKit/SymbolGraph": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit/SymbolGraph": {
   "abstract" : [
     {
       "text" : "A symbol graph is a set of ",
@@ -308,7 +308,7 @@
       "text" : "SymbolGraph"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph",
   "kind" : "symbol",
   "navigatorTitle" : [
     {
@@ -321,7 +321,7 @@
   "type" : "topic",
   "url" : "\/documentation\/symbolkit\/symbolgraph"
 },
-"doc://SymbolKit/documentation/SymbolKit/SymbolGraph/Symbol": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit/SymbolGraph/Symbol": {
   "abstract" : [
     {
       "text" : "A symbol from a module.",
@@ -342,7 +342,7 @@
       "text" : "Symbol"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol",
   "kind" : "symbol",
   "navigatorTitle" : [
     {
@@ -355,7 +355,7 @@
   "type" : "topic",
   "url" : "\/documentation\/symbolkit\/symbolgraph\/symbol"
 },
-"doc://SymbolKit/documentation/SymbolKit/SymbolGraph/Symbol/Location": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit/SymbolGraph/Symbol/Location": {
   "abstract" : [
     {
       "text" : "The place where a symbol was originally declared in a source file.",
@@ -376,7 +376,7 @@
       "text" : "Location"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol\/Location",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol\/Location",
   "kind" : "symbol",
   "navigatorTitle" : [
     {
@@ -389,7 +389,7 @@
   "type" : "topic",
   "url" : "\/documentation\/symbolkit\/symbolgraph\/symbol\/location"
 },
-"doc://SymbolKit/documentation/SymbolKit/SymbolGraph/Symbol/Location/init(from:)": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit/SymbolGraph/Symbol/Location/init(from:)": {
   "abstract" : [
 
   ],
@@ -424,14 +424,14 @@
       "text" : "throws"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol\/Location\/init(from:)",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol\/Location\/init(from:)",
   "kind" : "symbol",
   "role" : "symbol",
   "title" : "init(from:)",
   "type" : "topic",
   "url" : "\/documentation\/symbolkit\/symbolgraph\/symbol\/location\/init(from:)"
 },
-"doc://SymbolKit/documentation/SymbolKit/SymbolGraph/Symbol/Location/init(uri:position:)": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit/SymbolGraph/Symbol/Location/init(uri:position:)": {
   "abstract" : [
     {
       "text" : "Creates a new symbol location with the given source file URI and position.",
@@ -509,16 +509,19 @@
       "text" : ")"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol\/Location\/init(uri:position:)",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol\/Location\/init(uri:position:)",
   "kind" : "symbol",
   "role" : "symbol",
   "title" : "init(uri:position:)",
   "type" : "topic",
   "url" : "\/documentation\/symbolkit\/symbolgraph\/symbol\/location\/init(uri:position:)"
 },
-"doc://SymbolKit/documentation/SymbolKit/SymbolGraph/Symbol/Location/mixinKey": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit/SymbolGraph/Symbol/Location/mixinKey": {
   "abstract" : [
-
+    {
+      "text" : "The key under which a mixin’s data is filed.",
+      "type" : "text"
+    }
   ],
   "fragments" : [
     {
@@ -551,14 +554,14 @@
       "text" : "String"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol\/Location\/mixinKey",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol\/Location\/mixinKey",
   "kind" : "symbol",
   "role" : "symbol",
   "title" : "mixinKey",
   "type" : "topic",
   "url" : "\/documentation\/symbolkit\/symbolgraph\/symbol\/location\/mixinkey"
 },
-"doc://SymbolKit/documentation/SymbolKit/SymbolGraph/Symbol/Location/position": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit/SymbolGraph/Symbol/Location/position": {
   "abstract" : [
     {
       "text" : "The range of the declaration in the file, not including its documentation comment.",
@@ -615,14 +618,14 @@
       "text" : "Position"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol\/Location\/position",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol\/Location\/position",
   "kind" : "symbol",
   "role" : "symbol",
   "title" : "position",
   "type" : "topic",
   "url" : "\/documentation\/symbolkit\/symbolgraph\/symbol\/location\/position"
 },
-"doc://SymbolKit/documentation/SymbolKit/SymbolGraph/Symbol/Location/uri": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit/SymbolGraph/Symbol/Location/uri": {
   "abstract" : [
     {
       "text" : "The URI of the file in which the symbol was originally declared,",
@@ -660,7 +663,7 @@
       "text" : "String"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol\/Location\/uri",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol\/Location\/uri",
   "kind" : "symbol",
   "role" : "symbol",
   "title" : "uri",

@@ -1,6 +1,6 @@
 {
   "bundleDisplayName" : "SymbolKit",
-  "bundleIdentifier" : "SymbolKit",
+  "bundleIdentifier" : "org.swift.SymbolKit",
   "schemaVersion" : {
     "major" : 0,
     "minor" : 1,

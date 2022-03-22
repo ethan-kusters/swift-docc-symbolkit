@@ -16,16 +16,16 @@
   "hierarchy" : {
     "paths" : [
       [
-        "doc:\/\/SymbolKit\/documentation\/SymbolKit",
-        "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph",
-        "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/CodingKeys",
-        "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/CodingKeys\/Equatable-Implementations"
+        "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit",
+        "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph",
+        "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/CodingKeys",
+        "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/CodingKeys\/Equatable-Implementations"
       ]
     ]
   },
   "identifier" : {
     "interfaceLanguage" : "swift",
-    "url" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/CodingKeys\/!=(_:_:)"
+    "url" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/CodingKeys\/!=(_:_:)"
   },
   "kind" : "symbol",
   "metadata" : {
@@ -196,7 +196,7 @@
   ]
 , 
 "references": {
-"doc://SymbolKit/documentation/SymbolKit": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit": {
   "abstract" : [
     {
       "text" : "The specification and reference model for the ",
@@ -216,14 +216,14 @@
       "type" : "text"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit",
   "kind" : "symbol",
   "role" : "collection",
   "title" : "SymbolKit",
   "type" : "topic",
   "url" : "\/documentation\/symbolkit"
 },
-"doc://SymbolKit/documentation/SymbolKit/SymbolGraph": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit/SymbolGraph": {
   "abstract" : [
     {
       "text" : "A symbol graph is a set of ",
@@ -278,7 +278,7 @@
       "text" : "SymbolGraph"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph",
   "kind" : "symbol",
   "navigatorTitle" : [
     {
@@ -291,7 +291,7 @@
   "type" : "topic",
   "url" : "\/documentation\/symbolkit\/symbolgraph"
 },
-"doc://SymbolKit/documentation/SymbolKit/SymbolGraph/CodingKeys": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit/SymbolGraph/CodingKeys": {
   "abstract" : [
 
   ],
@@ -309,7 +309,7 @@
       "text" : "CodingKeys"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/CodingKeys",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/CodingKeys",
   "kind" : "symbol",
   "navigatorTitle" : [
     {
@@ -322,7 +322,7 @@
   "type" : "topic",
   "url" : "\/documentation\/symbolkit\/symbolgraph\/codingkeys"
 },
-"doc://SymbolKit/documentation/SymbolKit/SymbolGraph/CodingKeys/!=(_:_:)": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit/SymbolGraph/CodingKeys/!=(_:_:)": {
   "abstract" : [
 
   ],
@@ -377,18 +377,18 @@
       "text" : "Bool"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/CodingKeys\/!=(_:_:)",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/CodingKeys\/!=(_:_:)",
   "kind" : "symbol",
   "role" : "symbol",
   "title" : "!=(_:_:)",
   "type" : "topic",
   "url" : "\/documentation\/symbolkit\/symbolgraph\/codingkeys\/!=(_:_:)"
 },
-"doc://SymbolKit/documentation/SymbolKit/SymbolGraph/CodingKeys/Equatable-Implementations": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit/SymbolGraph/CodingKeys/Equatable-Implementations": {
   "abstract" : [
 
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/CodingKeys\/Equatable-Implementations",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/CodingKeys\/Equatable-Implementations",
   "kind" : "article",
   "role" : "collectionGroup",
   "title" : "Equatable Implementations",

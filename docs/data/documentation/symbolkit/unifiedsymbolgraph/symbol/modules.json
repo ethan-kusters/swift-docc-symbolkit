@@ -8,15 +8,15 @@
   "hierarchy" : {
     "paths" : [
       [
-        "doc:\/\/SymbolKit\/documentation\/SymbolKit",
-        "doc:\/\/SymbolKit\/documentation\/SymbolKit\/UnifiedSymbolGraph",
-        "doc:\/\/SymbolKit\/documentation\/SymbolKit\/UnifiedSymbolGraph\/Symbol"
+        "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit",
+        "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/UnifiedSymbolGraph",
+        "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/UnifiedSymbolGraph\/Symbol"
       ]
     ]
   },
   "identifier" : {
     "interfaceLanguage" : "swift",
-    "url" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/UnifiedSymbolGraph\/Symbol\/modules"
+    "url" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/UnifiedSymbolGraph\/Symbol\/modules"
   },
   "kind" : "symbol",
   "metadata" : {
@@ -37,15 +37,6 @@
       {
         "kind" : "text",
         "text" : ": ["
-      },
-      {
-        "kind" : "typeIdentifier",
-        "preciseIdentifier" : "s:9SymbolKit07UnifiedA5GraphC",
-        "text" : "UnifiedSymbolGraph"
-      },
-      {
-        "kind" : "text",
-        "text" : "."
       },
       {
         "kind" : "typeIdentifier",
@@ -113,17 +104,7 @@
               "text" : ": ["
             },
             {
-              "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/UnifiedSymbolGraph",
-              "kind" : "typeIdentifier",
-              "preciseIdentifier" : "s:9SymbolKit07UnifiedA5GraphC",
-              "text" : "UnifiedSymbolGraph"
-            },
-            {
-              "kind" : "text",
-              "text" : "."
-            },
-            {
-              "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/UnifiedSymbolGraph\/Selector",
+              "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/UnifiedSymbolGraph\/Selector",
               "kind" : "typeIdentifier",
               "preciseIdentifier" : "s:9SymbolKit07UnifiedA5GraphC8SelectorV",
               "text" : "Selector"
@@ -133,7 +114,7 @@
               "text" : " : "
             },
             {
-              "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph",
+              "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph",
               "kind" : "typeIdentifier",
               "preciseIdentifier" : "s:9SymbolKit0A5GraphV",
               "text" : "SymbolGraph"
@@ -143,7 +124,7 @@
               "text" : "."
             },
             {
-              "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Module-swift.struct",
+              "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Module-swift.struct",
               "kind" : "typeIdentifier",
               "preciseIdentifier" : "s:9SymbolKit0A5GraphV6ModuleV",
               "text" : "Module"
@@ -180,7 +161,7 @@
   ]
 , 
 "references": {
-"doc://SymbolKit/documentation/SymbolKit": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit": {
   "abstract" : [
     {
       "text" : "The specification and reference model for the ",
@@ -200,14 +181,14 @@
       "type" : "text"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit",
   "kind" : "symbol",
   "role" : "collection",
   "title" : "SymbolKit",
   "type" : "topic",
   "url" : "\/documentation\/symbolkit"
 },
-"doc://SymbolKit/documentation/SymbolKit/SymbolGraph": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit/SymbolGraph": {
   "abstract" : [
     {
       "text" : "A symbol graph is a set of ",
@@ -262,7 +243,7 @@
       "text" : "SymbolGraph"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph",
   "kind" : "symbol",
   "navigatorTitle" : [
     {
@@ -275,14 +256,14 @@
   "type" : "topic",
   "url" : "\/documentation\/symbolkit\/symbolgraph"
 },
-"doc://SymbolKit/documentation/SymbolKit/SymbolGraph/Module-swift.struct": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit/SymbolGraph/Module-swift.struct": {
   "abstract" : [
     {
       "text" : "A ",
       "type" : "text"
     },
     {
-      "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Module-swift.struct",
+      "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Module-swift.struct",
       "isActive" : true,
       "type" : "reference"
     },
@@ -305,7 +286,7 @@
       "text" : "Module"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Module-swift.struct",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Module-swift.struct",
   "kind" : "symbol",
   "navigatorTitle" : [
     {
@@ -318,14 +299,14 @@
   "type" : "topic",
   "url" : "\/documentation\/symbolkit\/symbolgraph\/module-swift.struct"
 },
-"doc://SymbolKit/documentation/SymbolKit/UnifiedSymbolGraph": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit/UnifiedSymbolGraph": {
   "abstract" : [
     {
       "text" : "A combined ",
       "type" : "text"
     },
     {
-      "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph",
+      "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph",
       "isActive" : true,
       "type" : "reference"
     },
@@ -348,7 +329,7 @@
       "text" : "UnifiedSymbolGraph"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/UnifiedSymbolGraph",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/UnifiedSymbolGraph",
   "kind" : "symbol",
   "navigatorTitle" : [
     {
@@ -361,7 +342,7 @@
   "type" : "topic",
   "url" : "\/documentation\/symbolkit\/unifiedsymbolgraph"
 },
-"doc://SymbolKit/documentation/SymbolKit/UnifiedSymbolGraph/Selector": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit/UnifiedSymbolGraph/Selector": {
   "abstract" : [
     {
       "text" : "A combination of interface language and list of platforms that allows a symbol to be distinguished from another when unifying symbol graphs.",
@@ -382,7 +363,7 @@
       "text" : "Selector"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/UnifiedSymbolGraph\/Selector",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/UnifiedSymbolGraph\/Selector",
   "kind" : "symbol",
   "navigatorTitle" : [
     {
@@ -395,7 +376,7 @@
   "type" : "topic",
   "url" : "\/documentation\/symbolkit\/unifiedsymbolgraph\/selector"
 },
-"doc://SymbolKit/documentation/SymbolKit/UnifiedSymbolGraph/Symbol": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit/UnifiedSymbolGraph/Symbol": {
   "abstract" : [
     {
       "text" : "A combined symbol from multiple languages’ views of the same symbol.",
@@ -416,7 +397,7 @@
       "text" : "Symbol"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/UnifiedSymbolGraph\/Symbol",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/UnifiedSymbolGraph\/Symbol",
   "kind" : "symbol",
   "navigatorTitle" : [
     {
@@ -429,7 +410,7 @@
   "type" : "topic",
   "url" : "\/documentation\/symbolkit\/unifiedsymbolgraph\/symbol"
 },
-"doc://SymbolKit/documentation/SymbolKit/UnifiedSymbolGraph/Symbol/modules": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit/UnifiedSymbolGraph/Symbol/modules": {
   "abstract" : [
 
   ],
@@ -449,15 +430,6 @@
     {
       "kind" : "text",
       "text" : ": ["
-    },
-    {
-      "kind" : "typeIdentifier",
-      "preciseIdentifier" : "s:9SymbolKit07UnifiedA5GraphC",
-      "text" : "UnifiedSymbolGraph"
-    },
-    {
-      "kind" : "text",
-      "text" : "."
     },
     {
       "kind" : "typeIdentifier",
@@ -487,7 +459,7 @@
       "text" : "]"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/UnifiedSymbolGraph\/Symbol\/modules",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/UnifiedSymbolGraph\/Symbol\/modules",
   "kind" : "symbol",
   "role" : "symbol",
   "title" : "modules",

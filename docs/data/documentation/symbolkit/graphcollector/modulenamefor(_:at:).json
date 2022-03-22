@@ -8,14 +8,14 @@
   "hierarchy" : {
     "paths" : [
       [
-        "doc:\/\/SymbolKit\/documentation\/SymbolKit",
-        "doc:\/\/SymbolKit\/documentation\/SymbolKit\/GraphCollector"
+        "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit",
+        "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/GraphCollector"
       ]
     ]
   },
   "identifier" : {
     "interfaceLanguage" : "swift",
-    "url" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/GraphCollector\/moduleNameFor(_:at:)"
+    "url" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/GraphCollector\/moduleNameFor(_:at:)"
   },
   "kind" : "symbol",
   "metadata" : {
@@ -153,7 +153,7 @@
               "text" : ": "
             },
             {
-              "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph",
+              "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph",
               "kind" : "typeIdentifier",
               "preciseIdentifier" : "s:9SymbolKit0A5GraphV",
               "text" : "SymbolGraph"
@@ -374,7 +374,7 @@
   ]
 , 
 "references": {
-"doc://SymbolKit/documentation/SymbolKit": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit": {
   "abstract" : [
     {
       "text" : "The specification and reference model for the ",
@@ -394,21 +394,21 @@
       "type" : "text"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit",
   "kind" : "symbol",
   "role" : "collection",
   "title" : "SymbolKit",
   "type" : "topic",
   "url" : "\/documentation\/symbolkit"
 },
-"doc://SymbolKit/documentation/SymbolKit/GraphCollector": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit/GraphCollector": {
   "abstract" : [
     {
       "text" : "An accumulator for incrementally merging ",
       "type" : "text"
     },
     {
-      "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph",
+      "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph",
       "isActive" : true,
       "type" : "reference"
     },
@@ -417,7 +417,7 @@
       "type" : "text"
     },
     {
-      "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/UnifiedSymbolGraph",
+      "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/UnifiedSymbolGraph",
       "isActive" : true,
       "type" : "reference"
     },
@@ -440,7 +440,7 @@
       "text" : "GraphCollector"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/GraphCollector",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/GraphCollector",
   "kind" : "symbol",
   "navigatorTitle" : [
     {
@@ -453,7 +453,7 @@
   "type" : "topic",
   "url" : "\/documentation\/symbolkit\/graphcollector"
 },
-"doc://SymbolKit/documentation/SymbolKit/GraphCollector/moduleNameFor(_:at:)": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit/GraphCollector/moduleNameFor(_:at:)": {
   "abstract" : [
     {
       "text" : "Determines the module name for the given symbol graph.",
@@ -530,14 +530,14 @@
       "text" : ")"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/GraphCollector\/moduleNameFor(_:at:)",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/GraphCollector\/moduleNameFor(_:at:)",
   "kind" : "symbol",
   "role" : "symbol",
   "title" : "moduleNameFor(_:at:)",
   "type" : "topic",
   "url" : "\/documentation\/symbolkit\/graphcollector\/modulenamefor(_:at:)"
 },
-"doc://SymbolKit/documentation/SymbolKit/SymbolGraph": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit/SymbolGraph": {
   "abstract" : [
     {
       "text" : "A symbol graph is a set of ",
@@ -592,7 +592,7 @@
       "text" : "SymbolGraph"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph",
   "kind" : "symbol",
   "navigatorTitle" : [
     {
@@ -605,14 +605,14 @@
   "type" : "topic",
   "url" : "\/documentation\/symbolkit\/symbolgraph"
 },
-"doc://SymbolKit/documentation/SymbolKit/UnifiedSymbolGraph": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit/UnifiedSymbolGraph": {
   "abstract" : [
     {
       "text" : "A combined ",
       "type" : "text"
     },
     {
-      "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph",
+      "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph",
       "isActive" : true,
       "type" : "reference"
     },
@@ -635,7 +635,7 @@
       "text" : "UnifiedSymbolGraph"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/UnifiedSymbolGraph",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/UnifiedSymbolGraph",
   "kind" : "symbol",
   "navigatorTitle" : [
     {

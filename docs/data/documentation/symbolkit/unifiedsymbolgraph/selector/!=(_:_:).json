@@ -16,16 +16,16 @@
   "hierarchy" : {
     "paths" : [
       [
-        "doc:\/\/SymbolKit\/documentation\/SymbolKit",
-        "doc:\/\/SymbolKit\/documentation\/SymbolKit\/UnifiedSymbolGraph",
-        "doc:\/\/SymbolKit\/documentation\/SymbolKit\/UnifiedSymbolGraph\/Selector",
-        "doc:\/\/SymbolKit\/documentation\/SymbolKit\/UnifiedSymbolGraph\/Selector\/Equatable-Implementations"
+        "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit",
+        "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/UnifiedSymbolGraph",
+        "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/UnifiedSymbolGraph\/Selector",
+        "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/UnifiedSymbolGraph\/Selector\/Equatable-Implementations"
       ]
     ]
   },
   "identifier" : {
     "interfaceLanguage" : "swift",
-    "url" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/UnifiedSymbolGraph\/Selector\/!=(_:_:)"
+    "url" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/UnifiedSymbolGraph\/Selector\/!=(_:_:)"
   },
   "kind" : "symbol",
   "metadata" : {
@@ -196,7 +196,7 @@
   ]
 , 
 "references": {
-"doc://SymbolKit/documentation/SymbolKit": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit": {
   "abstract" : [
     {
       "text" : "The specification and reference model for the ",
@@ -216,14 +216,14 @@
       "type" : "text"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit",
   "kind" : "symbol",
   "role" : "collection",
   "title" : "SymbolKit",
   "type" : "topic",
   "url" : "\/documentation\/symbolkit"
 },
-"doc://SymbolKit/documentation/SymbolKit/SymbolGraph": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit/SymbolGraph": {
   "abstract" : [
     {
       "text" : "A symbol graph is a set of ",
@@ -278,7 +278,7 @@
       "text" : "SymbolGraph"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph",
   "kind" : "symbol",
   "navigatorTitle" : [
     {
@@ -291,14 +291,14 @@
   "type" : "topic",
   "url" : "\/documentation\/symbolkit\/symbolgraph"
 },
-"doc://SymbolKit/documentation/SymbolKit/UnifiedSymbolGraph": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit/UnifiedSymbolGraph": {
   "abstract" : [
     {
       "text" : "A combined ",
       "type" : "text"
     },
     {
-      "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph",
+      "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph",
       "isActive" : true,
       "type" : "reference"
     },
@@ -321,7 +321,7 @@
       "text" : "UnifiedSymbolGraph"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/UnifiedSymbolGraph",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/UnifiedSymbolGraph",
   "kind" : "symbol",
   "navigatorTitle" : [
     {
@@ -334,7 +334,7 @@
   "type" : "topic",
   "url" : "\/documentation\/symbolkit\/unifiedsymbolgraph"
 },
-"doc://SymbolKit/documentation/SymbolKit/UnifiedSymbolGraph/Selector": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit/UnifiedSymbolGraph/Selector": {
   "abstract" : [
     {
       "text" : "A combination of interface language and list of platforms that allows a symbol to be distinguished from another when unifying symbol graphs.",
@@ -355,7 +355,7 @@
       "text" : "Selector"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/UnifiedSymbolGraph\/Selector",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/UnifiedSymbolGraph\/Selector",
   "kind" : "symbol",
   "navigatorTitle" : [
     {
@@ -368,7 +368,7 @@
   "type" : "topic",
   "url" : "\/documentation\/symbolkit\/unifiedsymbolgraph\/selector"
 },
-"doc://SymbolKit/documentation/SymbolKit/UnifiedSymbolGraph/Selector/!=(_:_:)": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit/UnifiedSymbolGraph/Selector/!=(_:_:)": {
   "abstract" : [
 
   ],
@@ -423,18 +423,18 @@
       "text" : "Bool"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/UnifiedSymbolGraph\/Selector\/!=(_:_:)",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/UnifiedSymbolGraph\/Selector\/!=(_:_:)",
   "kind" : "symbol",
   "role" : "symbol",
   "title" : "!=(_:_:)",
   "type" : "topic",
   "url" : "\/documentation\/symbolkit\/unifiedsymbolgraph\/selector\/!=(_:_:)"
 },
-"doc://SymbolKit/documentation/SymbolKit/UnifiedSymbolGraph/Selector/Equatable-Implementations": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit/UnifiedSymbolGraph/Selector/Equatable-Implementations": {
   "abstract" : [
 
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/UnifiedSymbolGraph\/Selector\/Equatable-Implementations",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/UnifiedSymbolGraph\/Selector\/Equatable-Implementations",
   "kind" : "article",
   "role" : "collectionGroup",
   "title" : "Equatable Implementations",

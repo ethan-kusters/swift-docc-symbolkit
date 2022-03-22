@@ -17,14 +17,14 @@
   "hierarchy" : {
     "paths" : [
       [
-        "doc:\/\/SymbolKit\/documentation\/SymbolKit",
-        "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph"
+        "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit",
+        "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph"
       ]
     ]
   },
   "identifier" : {
     "interfaceLanguage" : "swift",
-    "url" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/SemanticVersion"
+    "url" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/SemanticVersion"
   },
   "kind" : "symbol",
   "metadata" : {
@@ -92,10 +92,10 @@
   "relationshipsSections" : [
     {
       "identifiers" : [
-        "doc:\/\/SymbolKit\/s23CustomStringConvertibleP",
-        "doc:\/\/SymbolKit\/Se",
-        "doc:\/\/SymbolKit\/SE",
-        "doc:\/\/SymbolKit\/SQ"
+        "doc:\/\/org.swift.SymbolKit\/s23CustomStringConvertibleP",
+        "doc:\/\/org.swift.SymbolKit\/Se",
+        "doc:\/\/org.swift.SymbolKit\/SE",
+        "doc:\/\/org.swift.SymbolKit\/SQ"
       ],
       "kind" : "relationships",
       "title" : "Conforms To",
@@ -113,26 +113,26 @@
   "topicSections" : [
     {
       "identifiers" : [
-        "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/SemanticVersion\/init(from:)",
-        "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/SemanticVersion\/init(major:minor:patch:prerelease:buildMetadata:)"
+        "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/SemanticVersion\/init(from:)",
+        "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/SemanticVersion\/init(major:minor:patch:prerelease:buildMetadata:)"
       ],
       "title" : "Initializers"
     },
     {
       "identifiers" : [
-        "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/SemanticVersion\/buildMetadata",
-        "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/SemanticVersion\/description",
-        "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/SemanticVersion\/major",
-        "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/SemanticVersion\/minor",
-        "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/SemanticVersion\/patch",
-        "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/SemanticVersion\/prerelease"
+        "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/SemanticVersion\/buildMetadata",
+        "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/SemanticVersion\/description",
+        "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/SemanticVersion\/major",
+        "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/SemanticVersion\/minor",
+        "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/SemanticVersion\/patch",
+        "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/SemanticVersion\/prerelease"
       ],
       "title" : "Instance Properties"
     },
     {
       "generated" : true,
       "identifiers" : [
-        "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/SemanticVersion\/Equatable-Implementations"
+        "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/SemanticVersion\/Equatable-Implementations"
       ],
       "title" : "Default Implementations"
     }
@@ -151,22 +151,22 @@
   ]
 , 
 "references": {
-"doc://SymbolKit/SE": {
-  "identifier" : "doc:\/\/SymbolKit\/SE",
+"doc://org.swift.SymbolKit/SE": {
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/SE",
   "title" : "Swift.Encodable",
   "type" : "unresolvable"
 },
-"doc://SymbolKit/SQ": {
-  "identifier" : "doc:\/\/SymbolKit\/SQ",
+"doc://org.swift.SymbolKit/SQ": {
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/SQ",
   "title" : "Swift.Equatable",
   "type" : "unresolvable"
 },
-"doc://SymbolKit/Se": {
-  "identifier" : "doc:\/\/SymbolKit\/Se",
+"doc://org.swift.SymbolKit/Se": {
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/Se",
   "title" : "Swift.Decodable",
   "type" : "unresolvable"
 },
-"doc://SymbolKit/documentation/SymbolKit": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit": {
   "abstract" : [
     {
       "text" : "The specification and reference model for the ",
@@ -186,14 +186,14 @@
       "type" : "text"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit",
   "kind" : "symbol",
   "role" : "collection",
   "title" : "SymbolKit",
   "type" : "topic",
   "url" : "\/documentation\/symbolkit"
 },
-"doc://SymbolKit/documentation/SymbolKit/SymbolGraph": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit/SymbolGraph": {
   "abstract" : [
     {
       "text" : "A symbol graph is a set of ",
@@ -248,7 +248,7 @@
       "text" : "SymbolGraph"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph",
   "kind" : "symbol",
   "navigatorTitle" : [
     {
@@ -261,7 +261,7 @@
   "type" : "topic",
   "url" : "\/documentation\/symbolkit\/symbolgraph"
 },
-"doc://SymbolKit/documentation/SymbolKit/SymbolGraph/SemanticVersion": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit/SymbolGraph/SemanticVersion": {
   "abstract" : [
     {
       "text" : "A ",
@@ -291,7 +291,7 @@
       "text" : "SemanticVersion"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/SemanticVersion",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/SemanticVersion",
   "kind" : "symbol",
   "navigatorTitle" : [
     {
@@ -304,18 +304,18 @@
   "type" : "topic",
   "url" : "\/documentation\/symbolkit\/symbolgraph\/semanticversion"
 },
-"doc://SymbolKit/documentation/SymbolKit/SymbolGraph/SemanticVersion/Equatable-Implementations": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit/SymbolGraph/SemanticVersion/Equatable-Implementations": {
   "abstract" : [
 
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/SemanticVersion\/Equatable-Implementations",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/SemanticVersion\/Equatable-Implementations",
   "kind" : "article",
   "role" : "collectionGroup",
   "title" : "Equatable Implementations",
   "type" : "topic",
   "url" : "\/documentation\/symbolkit\/symbolgraph\/semanticversion\/equatable-implementations"
 },
-"doc://SymbolKit/documentation/SymbolKit/SymbolGraph/SemanticVersion/buildMetadata": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit/SymbolGraph/SemanticVersion/buildMetadata": {
   "abstract" : [
     {
       "text" : "Optional build metadata.",
@@ -349,14 +349,14 @@
       "text" : "?"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/SemanticVersion\/buildMetadata",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/SemanticVersion\/buildMetadata",
   "kind" : "symbol",
   "role" : "symbol",
   "title" : "buildMetadata",
   "type" : "topic",
   "url" : "\/documentation\/symbolkit\/symbolgraph\/semanticversion\/buildmetadata"
 },
-"doc://SymbolKit/documentation/SymbolKit/SymbolGraph/SemanticVersion/description": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit/SymbolGraph/SemanticVersion/description": {
   "abstract" : [
 
   ],
@@ -383,14 +383,14 @@
       "text" : "String"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/SemanticVersion\/description",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/SemanticVersion\/description",
   "kind" : "symbol",
   "role" : "symbol",
   "title" : "description",
   "type" : "topic",
   "url" : "\/documentation\/symbolkit\/symbolgraph\/semanticversion\/description"
 },
-"doc://SymbolKit/documentation/SymbolKit/SymbolGraph/SemanticVersion/init(from:)": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit/SymbolGraph/SemanticVersion/init(from:)": {
   "abstract" : [
 
   ],
@@ -425,14 +425,14 @@
       "text" : "throws"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/SemanticVersion\/init(from:)",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/SemanticVersion\/init(from:)",
   "kind" : "symbol",
   "role" : "symbol",
   "title" : "init(from:)",
   "type" : "topic",
   "url" : "\/documentation\/symbolkit\/symbolgraph\/semanticversion\/init(from:)"
 },
-"doc://SymbolKit/documentation/SymbolKit/SymbolGraph/SemanticVersion/init(major:minor:patch:prerelease:buildMetadata:)": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit/SymbolGraph/SemanticVersion/init(major:minor:patch:prerelease:buildMetadata:)": {
   "abstract" : [
 
   ],
@@ -531,14 +531,14 @@
       "text" : "?)"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/SemanticVersion\/init(major:minor:patch:prerelease:buildMetadata:)",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/SemanticVersion\/init(major:minor:patch:prerelease:buildMetadata:)",
   "kind" : "symbol",
   "role" : "symbol",
   "title" : "init(major:minor:patch:prerelease:buildMetadata:)",
   "type" : "topic",
   "url" : "\/documentation\/symbolkit\/symbolgraph\/semanticversion\/init(major:minor:patch:prerelease:buildmetadata:)"
 },
-"doc://SymbolKit/documentation/SymbolKit/SymbolGraph/SemanticVersion/major": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit/SymbolGraph/SemanticVersion/major": {
   "abstract" : [
     {
       "text" : "The major version number.",
@@ -568,14 +568,14 @@
       "text" : "Int"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/SemanticVersion\/major",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/SemanticVersion\/major",
   "kind" : "symbol",
   "role" : "symbol",
   "title" : "major",
   "type" : "topic",
   "url" : "\/documentation\/symbolkit\/symbolgraph\/semanticversion\/major"
 },
-"doc://SymbolKit/documentation/SymbolKit/SymbolGraph/SemanticVersion/minor": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit/SymbolGraph/SemanticVersion/minor": {
   "abstract" : [
     {
       "text" : "The minor version number.",
@@ -605,14 +605,14 @@
       "text" : "Int"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/SemanticVersion\/minor",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/SemanticVersion\/minor",
   "kind" : "symbol",
   "role" : "symbol",
   "title" : "minor",
   "type" : "topic",
   "url" : "\/documentation\/symbolkit\/symbolgraph\/semanticversion\/minor"
 },
-"doc://SymbolKit/documentation/SymbolKit/SymbolGraph/SemanticVersion/patch": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit/SymbolGraph/SemanticVersion/patch": {
   "abstract" : [
     {
       "text" : "The patch version number.",
@@ -642,14 +642,14 @@
       "text" : "Int"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/SemanticVersion\/patch",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/SemanticVersion\/patch",
   "kind" : "symbol",
   "role" : "symbol",
   "title" : "patch",
   "type" : "topic",
   "url" : "\/documentation\/symbolkit\/symbolgraph\/semanticversion\/patch"
 },
-"doc://SymbolKit/documentation/SymbolKit/SymbolGraph/SemanticVersion/prerelease": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit/SymbolGraph/SemanticVersion/prerelease": {
   "abstract" : [
     {
       "text" : "The optional prerelease version component, which may contain non-numeric characters.",
@@ -683,15 +683,15 @@
       "text" : "?"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/SemanticVersion\/prerelease",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/SemanticVersion\/prerelease",
   "kind" : "symbol",
   "role" : "symbol",
   "title" : "prerelease",
   "type" : "topic",
   "url" : "\/documentation\/symbolkit\/symbolgraph\/semanticversion\/prerelease"
 },
-"doc://SymbolKit/s23CustomStringConvertibleP": {
-  "identifier" : "doc:\/\/SymbolKit\/s23CustomStringConvertibleP",
+"doc://org.swift.SymbolKit/s23CustomStringConvertibleP": {
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/s23CustomStringConvertibleP",
   "title" : "Swift.CustomStringConvertible",
   "type" : "unresolvable"
 },

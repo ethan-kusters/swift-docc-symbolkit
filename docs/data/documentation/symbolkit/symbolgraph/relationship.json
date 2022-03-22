@@ -16,14 +16,14 @@
   "hierarchy" : {
     "paths" : [
       [
-        "doc:\/\/SymbolKit\/documentation\/SymbolKit",
-        "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph"
+        "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit",
+        "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph"
       ]
     ]
   },
   "identifier" : {
     "interfaceLanguage" : "swift",
-    "url" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Relationship"
+    "url" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Relationship"
   },
   "kind" : "symbol",
   "metadata" : {
@@ -91,8 +91,8 @@
   "relationshipsSections" : [
     {
       "identifiers" : [
-        "doc:\/\/SymbolKit\/Se",
-        "doc:\/\/SymbolKit\/SE"
+        "doc:\/\/org.swift.SymbolKit\/Se",
+        "doc:\/\/org.swift.SymbolKit\/SE"
       ],
       "kind" : "relationships",
       "title" : "Conforms To",
@@ -110,33 +110,33 @@
   "topicSections" : [
     {
       "identifiers" : [
-        "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Relationship\/Kind-swift.struct",
-        "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Relationship\/SourceOrigin",
-        "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Relationship\/Swift-swift.struct"
+        "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Relationship\/Kind-swift.struct",
+        "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Relationship\/SourceOrigin",
+        "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Relationship\/Swift-swift.struct"
       ],
       "title" : "Structures"
     },
     {
       "identifiers" : [
-        "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Relationship\/init(from:)",
-        "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Relationship\/init(source:target:kind:targetFallback:)"
+        "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Relationship\/init(from:)",
+        "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Relationship\/init(source:target:kind:targetFallback:)"
       ],
       "title" : "Initializers"
     },
     {
       "identifiers" : [
-        "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Relationship\/kind-swift.property",
-        "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Relationship\/mixins",
-        "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Relationship\/source",
-        "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Relationship\/swift-swift.property",
-        "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Relationship\/target",
-        "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Relationship\/targetFallback"
+        "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Relationship\/kind-swift.property",
+        "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Relationship\/mixins",
+        "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Relationship\/source",
+        "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Relationship\/swift-swift.property",
+        "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Relationship\/target",
+        "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Relationship\/targetFallback"
       ],
       "title" : "Instance Properties"
     },
     {
       "identifiers" : [
-        "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Relationship\/encode(to:)"
+        "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Relationship\/encode(to:)"
       ],
       "title" : "Instance Methods"
     }
@@ -155,17 +155,17 @@
   ]
 , 
 "references": {
-"doc://SymbolKit/SE": {
-  "identifier" : "doc:\/\/SymbolKit\/SE",
+"doc://org.swift.SymbolKit/SE": {
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/SE",
   "title" : "Swift.Encodable",
   "type" : "unresolvable"
 },
-"doc://SymbolKit/Se": {
-  "identifier" : "doc:\/\/SymbolKit\/Se",
+"doc://org.swift.SymbolKit/Se": {
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/Se",
   "title" : "Swift.Decodable",
   "type" : "unresolvable"
 },
-"doc://SymbolKit/documentation/SymbolKit": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit": {
   "abstract" : [
     {
       "text" : "The specification and reference model for the ",
@@ -185,14 +185,14 @@
       "type" : "text"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit",
   "kind" : "symbol",
   "role" : "collection",
   "title" : "SymbolKit",
   "type" : "topic",
   "url" : "\/documentation\/symbolkit"
 },
-"doc://SymbolKit/documentation/SymbolKit/SymbolGraph": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit/SymbolGraph": {
   "abstract" : [
     {
       "text" : "A symbol graph is a set of ",
@@ -247,7 +247,7 @@
       "text" : "SymbolGraph"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph",
   "kind" : "symbol",
   "navigatorTitle" : [
     {
@@ -260,7 +260,7 @@
   "type" : "topic",
   "url" : "\/documentation\/symbolkit\/symbolgraph"
 },
-"doc://SymbolKit/documentation/SymbolKit/SymbolGraph/Relationship": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit/SymbolGraph/Relationship": {
   "abstract" : [
     {
       "text" : "A relationship between two ",
@@ -289,7 +289,7 @@
       "text" : "Relationship"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Relationship",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Relationship",
   "kind" : "symbol",
   "navigatorTitle" : [
     {
@@ -302,7 +302,7 @@
   "type" : "topic",
   "url" : "\/documentation\/symbolkit\/symbolgraph\/relationship"
 },
-"doc://SymbolKit/documentation/SymbolKit/SymbolGraph/Relationship/Kind-swift.struct": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit/SymbolGraph/Relationship/Kind-swift.struct": {
   "abstract" : [
     {
       "text" : "The kind of relationship.",
@@ -323,7 +323,7 @@
       "text" : "Kind"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Relationship\/Kind-swift.struct",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Relationship\/Kind-swift.struct",
   "kind" : "symbol",
   "navigatorTitle" : [
     {
@@ -336,7 +336,7 @@
   "type" : "topic",
   "url" : "\/documentation\/symbolkit\/symbolgraph\/relationship\/kind-swift.struct"
 },
-"doc://SymbolKit/documentation/SymbolKit/SymbolGraph/Relationship/SourceOrigin": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit/SymbolGraph/Relationship/SourceOrigin": {
   "abstract" : [
     {
       "text" : "A mixin defining a source symbol’s origin.",
@@ -357,7 +357,7 @@
       "text" : "SourceOrigin"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Relationship\/SourceOrigin",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Relationship\/SourceOrigin",
   "kind" : "symbol",
   "navigatorTitle" : [
     {
@@ -370,7 +370,7 @@
   "type" : "topic",
   "url" : "\/documentation\/symbolkit\/symbolgraph\/relationship\/sourceorigin"
 },
-"doc://SymbolKit/documentation/SymbolKit/SymbolGraph/Relationship/Swift-swift.struct": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit/SymbolGraph/Relationship/Swift-swift.struct": {
   "abstract" : [
     {
       "text" : "A view of a relationship in terms of the Swift programming language.",
@@ -391,7 +391,7 @@
       "text" : "Swift"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Relationship\/Swift-swift.struct",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Relationship\/Swift-swift.struct",
   "kind" : "symbol",
   "navigatorTitle" : [
     {
@@ -404,7 +404,7 @@
   "type" : "topic",
   "url" : "\/documentation\/symbolkit\/symbolgraph\/relationship\/swift-swift.struct"
 },
-"doc://SymbolKit/documentation/SymbolKit/SymbolGraph/Relationship/encode(to:)": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit/SymbolGraph/Relationship/encode(to:)": {
   "abstract" : [
 
   ],
@@ -447,14 +447,14 @@
       "text" : "throws"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Relationship\/encode(to:)",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Relationship\/encode(to:)",
   "kind" : "symbol",
   "role" : "symbol",
   "title" : "encode(to:)",
   "type" : "topic",
   "url" : "\/documentation\/symbolkit\/symbolgraph\/relationship\/encode(to:)"
 },
-"doc://SymbolKit/documentation/SymbolKit/SymbolGraph/Relationship/init(from:)": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit/SymbolGraph/Relationship/init(from:)": {
   "abstract" : [
 
   ],
@@ -489,14 +489,14 @@
       "text" : "throws"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Relationship\/init(from:)",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Relationship\/init(from:)",
   "kind" : "symbol",
   "role" : "symbol",
   "title" : "init(from:)",
   "type" : "topic",
   "url" : "\/documentation\/symbolkit\/symbolgraph\/relationship\/init(from:)"
 },
-"doc://SymbolKit/documentation/SymbolKit/SymbolGraph/Relationship/init(source:target:kind:targetFallback:)": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit/SymbolGraph/Relationship/init(source:target:kind:targetFallback:)": {
   "abstract" : [
 
   ],
@@ -553,24 +553,6 @@
     },
     {
       "kind" : "typeIdentifier",
-      "preciseIdentifier" : "s:9SymbolKit0A5GraphV",
-      "text" : "SymbolGraph"
-    },
-    {
-      "kind" : "text",
-      "text" : "."
-    },
-    {
-      "kind" : "typeIdentifier",
-      "preciseIdentifier" : "s:9SymbolKit0A5GraphV12RelationshipV",
-      "text" : "Relationship"
-    },
-    {
-      "kind" : "text",
-      "text" : "."
-    },
-    {
-      "kind" : "typeIdentifier",
       "preciseIdentifier" : "s:9SymbolKit0A5GraphV12RelationshipV4KindV",
       "text" : "Kind"
     },
@@ -596,14 +578,14 @@
       "text" : "?)"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Relationship\/init(source:target:kind:targetFallback:)",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Relationship\/init(source:target:kind:targetFallback:)",
   "kind" : "symbol",
   "role" : "symbol",
   "title" : "init(source:target:kind:targetFallback:)",
   "type" : "topic",
   "url" : "\/documentation\/symbolkit\/symbolgraph\/relationship\/init(source:target:kind:targetfallback:)"
 },
-"doc://SymbolKit/documentation/SymbolKit/SymbolGraph/Relationship/kind-swift.property": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit/SymbolGraph/Relationship/kind-swift.property": {
   "abstract" : [
     {
       "text" : "The type of relationship that this edge represents.",
@@ -629,36 +611,18 @@
     },
     {
       "kind" : "typeIdentifier",
-      "preciseIdentifier" : "s:9SymbolKit0A5GraphV",
-      "text" : "SymbolGraph"
-    },
-    {
-      "kind" : "text",
-      "text" : "."
-    },
-    {
-      "kind" : "typeIdentifier",
-      "preciseIdentifier" : "s:9SymbolKit0A5GraphV12RelationshipV",
-      "text" : "Relationship"
-    },
-    {
-      "kind" : "text",
-      "text" : "."
-    },
-    {
-      "kind" : "typeIdentifier",
       "preciseIdentifier" : "s:9SymbolKit0A5GraphV12RelationshipV4KindV",
       "text" : "Kind"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Relationship\/kind-swift.property",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Relationship\/kind-swift.property",
   "kind" : "symbol",
   "role" : "symbol",
   "title" : "kind",
   "type" : "topic",
   "url" : "\/documentation\/symbolkit\/symbolgraph\/relationship\/kind-swift.property"
 },
-"doc://SymbolKit/documentation/SymbolKit/SymbolGraph/Relationship/mixins": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit/SymbolGraph/Relationship/mixins": {
   "abstract" : [
     {
       "text" : "Extra information about a relationship that is not necessarily common to all relationships",
@@ -701,14 +665,14 @@
       "text" : "]"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Relationship\/mixins",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Relationship\/mixins",
   "kind" : "symbol",
   "role" : "symbol",
   "title" : "mixins",
   "type" : "topic",
   "url" : "\/documentation\/symbolkit\/symbolgraph\/relationship\/mixins"
 },
-"doc://SymbolKit/documentation/SymbolKit/SymbolGraph/Relationship/source": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit/SymbolGraph/Relationship/source": {
   "abstract" : [
     {
       "text" : "The precise identifier of the symbol that has a relationship.",
@@ -738,14 +702,14 @@
       "text" : "String"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Relationship\/source",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Relationship\/source",
   "kind" : "symbol",
   "role" : "symbol",
   "title" : "source",
   "type" : "topic",
   "url" : "\/documentation\/symbolkit\/symbolgraph\/relationship\/source"
 },
-"doc://SymbolKit/documentation/SymbolKit/SymbolGraph/Relationship/swift-swift.property": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit/SymbolGraph/Relationship/swift-swift.property": {
   "abstract" : [
     {
       "text" : "A view of a relationship in terms of the Swift programming language.",
@@ -771,36 +735,18 @@
     },
     {
       "kind" : "typeIdentifier",
-      "preciseIdentifier" : "s:9SymbolKit0A5GraphV",
-      "text" : "SymbolGraph"
-    },
-    {
-      "kind" : "text",
-      "text" : "."
-    },
-    {
-      "kind" : "typeIdentifier",
-      "preciseIdentifier" : "s:9SymbolKit0A5GraphV12RelationshipV",
-      "text" : "Relationship"
-    },
-    {
-      "kind" : "text",
-      "text" : "."
-    },
-    {
-      "kind" : "typeIdentifier",
       "preciseIdentifier" : "s:9SymbolKit0A5GraphV12RelationshipV5SwiftV",
       "text" : "Swift"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Relationship\/swift-swift.property",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Relationship\/swift-swift.property",
   "kind" : "symbol",
   "role" : "symbol",
   "title" : "swift",
   "type" : "topic",
   "url" : "\/documentation\/symbolkit\/symbolgraph\/relationship\/swift-swift.property"
 },
-"doc://SymbolKit/documentation/SymbolKit/SymbolGraph/Relationship/target": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit/SymbolGraph/Relationship/target": {
   "abstract" : [
     {
       "text" : "The precise identifier of the symbol that the ",
@@ -838,14 +784,14 @@
       "text" : "String"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Relationship\/target",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Relationship\/target",
   "kind" : "symbol",
   "role" : "symbol",
   "title" : "target",
   "type" : "topic",
   "url" : "\/documentation\/symbolkit\/symbolgraph\/relationship\/target"
 },
-"doc://SymbolKit/documentation/SymbolKit/SymbolGraph/Relationship/targetFallback": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit/SymbolGraph/Relationship/targetFallback": {
   "abstract" : [
     {
       "text" : "A fallback display name for the target if its module’s symbol graph",
@@ -887,7 +833,7 @@
       "text" : "?"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Relationship\/targetFallback",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Relationship\/targetFallback",
   "kind" : "symbol",
   "role" : "symbol",
   "title" : "targetFallback",

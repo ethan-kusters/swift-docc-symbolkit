@@ -8,16 +8,16 @@
   "hierarchy" : {
     "paths" : [
       [
-        "doc:\/\/SymbolKit\/documentation\/SymbolKit",
-        "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph",
-        "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Relationship",
-        "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Relationship\/SourceOrigin"
+        "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit",
+        "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph",
+        "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Relationship",
+        "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Relationship\/SourceOrigin"
       ]
     ]
   },
   "identifier" : {
     "interfaceLanguage" : "swift",
-    "url" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Relationship\/SourceOrigin\/displayName"
+    "url" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Relationship\/SourceOrigin\/displayName"
   },
   "kind" : "symbol",
   "metadata" : {
@@ -115,7 +115,7 @@
   ]
 , 
 "references": {
-"doc://SymbolKit/documentation/SymbolKit": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit": {
   "abstract" : [
     {
       "text" : "The specification and reference model for the ",
@@ -135,14 +135,14 @@
       "type" : "text"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit",
   "kind" : "symbol",
   "role" : "collection",
   "title" : "SymbolKit",
   "type" : "topic",
   "url" : "\/documentation\/symbolkit"
 },
-"doc://SymbolKit/documentation/SymbolKit/SymbolGraph": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit/SymbolGraph": {
   "abstract" : [
     {
       "text" : "A symbol graph is a set of ",
@@ -197,7 +197,7 @@
       "text" : "SymbolGraph"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph",
   "kind" : "symbol",
   "navigatorTitle" : [
     {
@@ -210,7 +210,7 @@
   "type" : "topic",
   "url" : "\/documentation\/symbolkit\/symbolgraph"
 },
-"doc://SymbolKit/documentation/SymbolKit/SymbolGraph/Relationship": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit/SymbolGraph/Relationship": {
   "abstract" : [
     {
       "text" : "A relationship between two ",
@@ -239,7 +239,7 @@
       "text" : "Relationship"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Relationship",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Relationship",
   "kind" : "symbol",
   "navigatorTitle" : [
     {
@@ -252,7 +252,7 @@
   "type" : "topic",
   "url" : "\/documentation\/symbolkit\/symbolgraph\/relationship"
 },
-"doc://SymbolKit/documentation/SymbolKit/SymbolGraph/Relationship/SourceOrigin": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit/SymbolGraph/Relationship/SourceOrigin": {
   "abstract" : [
     {
       "text" : "A mixin defining a source symbol’s origin.",
@@ -273,7 +273,7 @@
       "text" : "SourceOrigin"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Relationship\/SourceOrigin",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Relationship\/SourceOrigin",
   "kind" : "symbol",
   "navigatorTitle" : [
     {
@@ -286,7 +286,7 @@
   "type" : "topic",
   "url" : "\/documentation\/symbolkit\/symbolgraph\/relationship\/sourceorigin"
 },
-"doc://SymbolKit/documentation/SymbolKit/SymbolGraph/Relationship/SourceOrigin/displayName": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit/SymbolGraph/Relationship/SourceOrigin/displayName": {
   "abstract" : [
     {
       "text" : "Display Name",
@@ -316,7 +316,7 @@
       "text" : "String"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Relationship\/SourceOrigin\/displayName",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Relationship\/SourceOrigin\/displayName",
   "kind" : "symbol",
   "role" : "symbol",
   "title" : "displayName",

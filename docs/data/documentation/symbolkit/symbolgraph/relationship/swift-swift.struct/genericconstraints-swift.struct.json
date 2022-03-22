@@ -8,16 +8,16 @@
   "hierarchy" : {
     "paths" : [
       [
-        "doc:\/\/SymbolKit\/documentation\/SymbolKit",
-        "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph",
-        "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Relationship",
-        "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Relationship\/Swift-swift.struct"
+        "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit",
+        "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph",
+        "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Relationship",
+        "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Relationship\/Swift-swift.struct"
       ]
     ]
   },
   "identifier" : {
     "interfaceLanguage" : "swift",
-    "url" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Relationship\/Swift-swift.struct\/GenericConstraints-swift.struct"
+    "url" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Relationship\/Swift-swift.struct\/GenericConstraints-swift.struct"
   },
   "kind" : "symbol",
   "metadata" : {
@@ -85,11 +85,11 @@
   "relationshipsSections" : [
     {
       "identifiers" : [
-        "doc:\/\/SymbolKit\/documentation\/SymbolKit\/Mixin",
-        "doc:\/\/SymbolKit\/Se",
-        "doc:\/\/SymbolKit\/SE",
-        "doc:\/\/SymbolKit\/SQ",
-        "doc:\/\/SymbolKit\/SH"
+        "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/Mixin",
+        "doc:\/\/org.swift.SymbolKit\/Se",
+        "doc:\/\/org.swift.SymbolKit\/SE",
+        "doc:\/\/org.swift.SymbolKit\/SQ",
+        "doc:\/\/org.swift.SymbolKit\/SH"
       ],
       "kind" : "relationships",
       "title" : "Conforms To",
@@ -107,33 +107,33 @@
   "topicSections" : [
     {
       "identifiers" : [
-        "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Relationship\/Swift-swift.struct\/GenericConstraints-swift.struct\/init(constraints:)",
-        "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Relationship\/Swift-swift.struct\/GenericConstraints-swift.struct\/init(from:)"
+        "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Relationship\/Swift-swift.struct\/GenericConstraints-swift.struct\/init(constraints:)",
+        "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Relationship\/Swift-swift.struct\/GenericConstraints-swift.struct\/init(from:)"
       ],
       "title" : "Initializers"
     },
     {
       "identifiers" : [
-        "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Relationship\/Swift-swift.struct\/GenericConstraints-swift.struct\/constraints"
+        "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Relationship\/Swift-swift.struct\/GenericConstraints-swift.struct\/constraints"
       ],
       "title" : "Instance Properties"
     },
     {
       "identifiers" : [
-        "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Relationship\/Swift-swift.struct\/GenericConstraints-swift.struct\/encode(to:)"
+        "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Relationship\/Swift-swift.struct\/GenericConstraints-swift.struct\/encode(to:)"
       ],
       "title" : "Instance Methods"
     },
     {
       "identifiers" : [
-        "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Relationship\/Swift-swift.struct\/GenericConstraints-swift.struct\/mixinKey"
+        "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Relationship\/Swift-swift.struct\/GenericConstraints-swift.struct\/mixinKey"
       ],
       "title" : "Type Properties"
     },
     {
       "generated" : true,
       "identifiers" : [
-        "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Relationship\/Swift-swift.struct\/GenericConstraints-swift.struct\/Equatable-Implementations"
+        "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Relationship\/Swift-swift.struct\/GenericConstraints-swift.struct\/Equatable-Implementations"
       ],
       "title" : "Default Implementations"
     }
@@ -152,27 +152,27 @@
   ]
 , 
 "references": {
-"doc://SymbolKit/SE": {
-  "identifier" : "doc:\/\/SymbolKit\/SE",
+"doc://org.swift.SymbolKit/SE": {
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/SE",
   "title" : "Swift.Encodable",
   "type" : "unresolvable"
 },
-"doc://SymbolKit/SH": {
-  "identifier" : "doc:\/\/SymbolKit\/SH",
+"doc://org.swift.SymbolKit/SH": {
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/SH",
   "title" : "Swift.Hashable",
   "type" : "unresolvable"
 },
-"doc://SymbolKit/SQ": {
-  "identifier" : "doc:\/\/SymbolKit\/SQ",
+"doc://org.swift.SymbolKit/SQ": {
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/SQ",
   "title" : "Swift.Equatable",
   "type" : "unresolvable"
 },
-"doc://SymbolKit/Se": {
-  "identifier" : "doc:\/\/SymbolKit\/Se",
+"doc://org.swift.SymbolKit/Se": {
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/Se",
   "title" : "Swift.Decodable",
   "type" : "unresolvable"
 },
-"doc://SymbolKit/documentation/SymbolKit": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit": {
   "abstract" : [
     {
       "text" : "The specification and reference model for the ",
@@ -192,14 +192,14 @@
       "type" : "text"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit",
   "kind" : "symbol",
   "role" : "collection",
   "title" : "SymbolKit",
   "type" : "topic",
   "url" : "\/documentation\/symbolkit"
 },
-"doc://SymbolKit/documentation/SymbolKit/Mixin": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit/Mixin": {
   "abstract" : [
     {
       "text" : "A protocol that allows extracted symbols to have extra data",
@@ -214,7 +214,7 @@
       "type" : "text"
     },
     {
-      "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol",
+      "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol",
       "isActive" : true,
       "type" : "reference"
     },
@@ -237,7 +237,7 @@
       "text" : "Mixin"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/Mixin",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/Mixin",
   "kind" : "symbol",
   "navigatorTitle" : [
     {
@@ -250,7 +250,7 @@
   "type" : "topic",
   "url" : "\/documentation\/symbolkit\/mixin"
 },
-"doc://SymbolKit/documentation/SymbolKit/SymbolGraph": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit/SymbolGraph": {
   "abstract" : [
     {
       "text" : "A symbol graph is a set of ",
@@ -305,7 +305,7 @@
       "text" : "SymbolGraph"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph",
   "kind" : "symbol",
   "navigatorTitle" : [
     {
@@ -318,7 +318,7 @@
   "type" : "topic",
   "url" : "\/documentation\/symbolkit\/symbolgraph"
 },
-"doc://SymbolKit/documentation/SymbolKit/SymbolGraph/Relationship": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit/SymbolGraph/Relationship": {
   "abstract" : [
     {
       "text" : "A relationship between two ",
@@ -347,7 +347,7 @@
       "text" : "Relationship"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Relationship",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Relationship",
   "kind" : "symbol",
   "navigatorTitle" : [
     {
@@ -360,7 +360,7 @@
   "type" : "topic",
   "url" : "\/documentation\/symbolkit\/symbolgraph\/relationship"
 },
-"doc://SymbolKit/documentation/SymbolKit/SymbolGraph/Relationship/Swift-swift.struct": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit/SymbolGraph/Relationship/Swift-swift.struct": {
   "abstract" : [
     {
       "text" : "A view of a relationship in terms of the Swift programming language.",
@@ -381,7 +381,7 @@
       "text" : "Swift"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Relationship\/Swift-swift.struct",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Relationship\/Swift-swift.struct",
   "kind" : "symbol",
   "navigatorTitle" : [
     {
@@ -394,7 +394,7 @@
   "type" : "topic",
   "url" : "\/documentation\/symbolkit\/symbolgraph\/relationship\/swift-swift.struct"
 },
-"doc://SymbolKit/documentation/SymbolKit/SymbolGraph/Relationship/Swift-swift.struct/GenericConstraints-swift.struct": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit/SymbolGraph/Relationship/Swift-swift.struct/GenericConstraints-swift.struct": {
   "abstract" : [
     {
       "text" : "A mixin collecting Swift generic constraints.",
@@ -415,7 +415,7 @@
       "text" : "GenericConstraints"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Relationship\/Swift-swift.struct\/GenericConstraints-swift.struct",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Relationship\/Swift-swift.struct\/GenericConstraints-swift.struct",
   "kind" : "symbol",
   "navigatorTitle" : [
     {
@@ -428,18 +428,18 @@
   "type" : "topic",
   "url" : "\/documentation\/symbolkit\/symbolgraph\/relationship\/swift-swift.struct\/genericconstraints-swift.struct"
 },
-"doc://SymbolKit/documentation/SymbolKit/SymbolGraph/Relationship/Swift-swift.struct/GenericConstraints-swift.struct/Equatable-Implementations": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit/SymbolGraph/Relationship/Swift-swift.struct/GenericConstraints-swift.struct/Equatable-Implementations": {
   "abstract" : [
 
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Relationship\/Swift-swift.struct\/GenericConstraints-swift.struct\/Equatable-Implementations",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Relationship\/Swift-swift.struct\/GenericConstraints-swift.struct\/Equatable-Implementations",
   "kind" : "article",
   "role" : "collectionGroup",
   "title" : "Equatable Implementations",
   "type" : "topic",
   "url" : "\/documentation\/symbolkit\/symbolgraph\/relationship\/swift-swift.struct\/genericconstraints-swift.struct\/equatable-implementations"
 },
-"doc://SymbolKit/documentation/SymbolKit/SymbolGraph/Relationship/Swift-swift.struct/GenericConstraints-swift.struct/constraints": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit/SymbolGraph/Relationship/Swift-swift.struct/GenericConstraints-swift.struct/constraints": {
   "abstract" : [
     {
       "text" : "Generic constraints.",
@@ -500,14 +500,14 @@
       "text" : "]"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Relationship\/Swift-swift.struct\/GenericConstraints-swift.struct\/constraints",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Relationship\/Swift-swift.struct\/GenericConstraints-swift.struct\/constraints",
   "kind" : "symbol",
   "role" : "symbol",
   "title" : "constraints",
   "type" : "topic",
   "url" : "\/documentation\/symbolkit\/symbolgraph\/relationship\/swift-swift.struct\/genericconstraints-swift.struct\/constraints"
 },
-"doc://SymbolKit/documentation/SymbolKit/SymbolGraph/Relationship/Swift-swift.struct/GenericConstraints-swift.struct/encode(to:)": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit/SymbolGraph/Relationship/Swift-swift.struct/GenericConstraints-swift.struct/encode(to:)": {
   "abstract" : [
 
   ],
@@ -550,14 +550,14 @@
       "text" : "throws"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Relationship\/Swift-swift.struct\/GenericConstraints-swift.struct\/encode(to:)",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Relationship\/Swift-swift.struct\/GenericConstraints-swift.struct\/encode(to:)",
   "kind" : "symbol",
   "role" : "symbol",
   "title" : "encode(to:)",
   "type" : "topic",
   "url" : "\/documentation\/symbolkit\/symbolgraph\/relationship\/swift-swift.struct\/genericconstraints-swift.struct\/encode(to:)"
 },
-"doc://SymbolKit/documentation/SymbolKit/SymbolGraph/Relationship/Swift-swift.struct/GenericConstraints-swift.struct/init(constraints:)": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit/SymbolGraph/Relationship/Swift-swift.struct/GenericConstraints-swift.struct/init(constraints:)": {
   "abstract" : [
 
   ],
@@ -615,14 +615,14 @@
       "text" : "])"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Relationship\/Swift-swift.struct\/GenericConstraints-swift.struct\/init(constraints:)",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Relationship\/Swift-swift.struct\/GenericConstraints-swift.struct\/init(constraints:)",
   "kind" : "symbol",
   "role" : "symbol",
   "title" : "init(constraints:)",
   "type" : "topic",
   "url" : "\/documentation\/symbolkit\/symbolgraph\/relationship\/swift-swift.struct\/genericconstraints-swift.struct\/init(constraints:)"
 },
-"doc://SymbolKit/documentation/SymbolKit/SymbolGraph/Relationship/Swift-swift.struct/GenericConstraints-swift.struct/init(from:)": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit/SymbolGraph/Relationship/Swift-swift.struct/GenericConstraints-swift.struct/init(from:)": {
   "abstract" : [
 
   ],
@@ -657,16 +657,19 @@
       "text" : "throws"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Relationship\/Swift-swift.struct\/GenericConstraints-swift.struct\/init(from:)",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Relationship\/Swift-swift.struct\/GenericConstraints-swift.struct\/init(from:)",
   "kind" : "symbol",
   "role" : "symbol",
   "title" : "init(from:)",
   "type" : "topic",
   "url" : "\/documentation\/symbolkit\/symbolgraph\/relationship\/swift-swift.struct\/genericconstraints-swift.struct\/init(from:)"
 },
-"doc://SymbolKit/documentation/SymbolKit/SymbolGraph/Relationship/Swift-swift.struct/GenericConstraints-swift.struct/mixinKey": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit/SymbolGraph/Relationship/Swift-swift.struct/GenericConstraints-swift.struct/mixinKey": {
   "abstract" : [
-
+    {
+      "text" : "The key under which a mixin’s data is filed.",
+      "type" : "text"
+    }
   ],
   "fragments" : [
     {
@@ -699,14 +702,14 @@
       "text" : "String"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Relationship\/Swift-swift.struct\/GenericConstraints-swift.struct\/mixinKey",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Relationship\/Swift-swift.struct\/GenericConstraints-swift.struct\/mixinKey",
   "kind" : "symbol",
   "role" : "symbol",
   "title" : "mixinKey",
   "type" : "topic",
   "url" : "\/documentation\/symbolkit\/symbolgraph\/relationship\/swift-swift.struct\/genericconstraints-swift.struct\/mixinkey"
 },
-"doc://SymbolKit/documentation/SymbolKit/SymbolGraph/Symbol": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit/SymbolGraph/Symbol": {
   "abstract" : [
     {
       "text" : "A symbol from a module.",
@@ -727,7 +730,7 @@
       "text" : "Symbol"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Symbol",
   "kind" : "symbol",
   "navigatorTitle" : [
     {

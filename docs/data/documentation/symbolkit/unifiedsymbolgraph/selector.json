@@ -8,14 +8,14 @@
   "hierarchy" : {
     "paths" : [
       [
-        "doc:\/\/SymbolKit\/documentation\/SymbolKit",
-        "doc:\/\/SymbolKit\/documentation\/SymbolKit\/UnifiedSymbolGraph"
+        "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit",
+        "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/UnifiedSymbolGraph"
       ]
     ]
   },
   "identifier" : {
     "interfaceLanguage" : "swift",
-    "url" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/UnifiedSymbolGraph\/Selector"
+    "url" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/UnifiedSymbolGraph\/Selector"
   },
   "kind" : "symbol",
   "metadata" : {
@@ -83,8 +83,8 @@
   "relationshipsSections" : [
     {
       "identifiers" : [
-        "doc:\/\/SymbolKit\/SQ",
-        "doc:\/\/SymbolKit\/SH"
+        "doc:\/\/org.swift.SymbolKit\/SQ",
+        "doc:\/\/org.swift.SymbolKit\/SH"
       ],
       "kind" : "relationships",
       "title" : "Conforms To",
@@ -102,22 +102,22 @@
   "topicSections" : [
     {
       "identifiers" : [
-        "doc:\/\/SymbolKit\/documentation\/SymbolKit\/UnifiedSymbolGraph\/Selector\/init(forSymbolGraph:)",
-        "doc:\/\/SymbolKit\/documentation\/SymbolKit\/UnifiedSymbolGraph\/Selector\/init(interfaceLanguage:platform:)"
+        "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/UnifiedSymbolGraph\/Selector\/init(forSymbolGraph:)",
+        "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/UnifiedSymbolGraph\/Selector\/init(interfaceLanguage:platform:)"
       ],
       "title" : "Initializers"
     },
     {
       "identifiers" : [
-        "doc:\/\/SymbolKit\/documentation\/SymbolKit\/UnifiedSymbolGraph\/Selector\/interfaceLanguage",
-        "doc:\/\/SymbolKit\/documentation\/SymbolKit\/UnifiedSymbolGraph\/Selector\/platform"
+        "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/UnifiedSymbolGraph\/Selector\/interfaceLanguage",
+        "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/UnifiedSymbolGraph\/Selector\/platform"
       ],
       "title" : "Instance Properties"
     },
     {
       "generated" : true,
       "identifiers" : [
-        "doc:\/\/SymbolKit\/documentation\/SymbolKit\/UnifiedSymbolGraph\/Selector\/Equatable-Implementations"
+        "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/UnifiedSymbolGraph\/Selector\/Equatable-Implementations"
       ],
       "title" : "Default Implementations"
     }
@@ -136,17 +136,17 @@
   ]
 , 
 "references": {
-"doc://SymbolKit/SH": {
-  "identifier" : "doc:\/\/SymbolKit\/SH",
+"doc://org.swift.SymbolKit/SH": {
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/SH",
   "title" : "Swift.Hashable",
   "type" : "unresolvable"
 },
-"doc://SymbolKit/SQ": {
-  "identifier" : "doc:\/\/SymbolKit\/SQ",
+"doc://org.swift.SymbolKit/SQ": {
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/SQ",
   "title" : "Swift.Equatable",
   "type" : "unresolvable"
 },
-"doc://SymbolKit/documentation/SymbolKit": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit": {
   "abstract" : [
     {
       "text" : "The specification and reference model for the ",
@@ -166,14 +166,14 @@
       "type" : "text"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit",
   "kind" : "symbol",
   "role" : "collection",
   "title" : "SymbolKit",
   "type" : "topic",
   "url" : "\/documentation\/symbolkit"
 },
-"doc://SymbolKit/documentation/SymbolKit/SymbolGraph": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit/SymbolGraph": {
   "abstract" : [
     {
       "text" : "A symbol graph is a set of ",
@@ -228,7 +228,7 @@
       "text" : "SymbolGraph"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph",
   "kind" : "symbol",
   "navigatorTitle" : [
     {
@@ -241,14 +241,14 @@
   "type" : "topic",
   "url" : "\/documentation\/symbolkit\/symbolgraph"
 },
-"doc://SymbolKit/documentation/SymbolKit/UnifiedSymbolGraph": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit/UnifiedSymbolGraph": {
   "abstract" : [
     {
       "text" : "A combined ",
       "type" : "text"
     },
     {
-      "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph",
+      "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph",
       "isActive" : true,
       "type" : "reference"
     },
@@ -271,7 +271,7 @@
       "text" : "UnifiedSymbolGraph"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/UnifiedSymbolGraph",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/UnifiedSymbolGraph",
   "kind" : "symbol",
   "navigatorTitle" : [
     {
@@ -284,7 +284,7 @@
   "type" : "topic",
   "url" : "\/documentation\/symbolkit\/unifiedsymbolgraph"
 },
-"doc://SymbolKit/documentation/SymbolKit/UnifiedSymbolGraph/Selector": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit/UnifiedSymbolGraph/Selector": {
   "abstract" : [
     {
       "text" : "A combination of interface language and list of platforms that allows a symbol to be distinguished from another when unifying symbol graphs.",
@@ -305,7 +305,7 @@
       "text" : "Selector"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/UnifiedSymbolGraph\/Selector",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/UnifiedSymbolGraph\/Selector",
   "kind" : "symbol",
   "navigatorTitle" : [
     {
@@ -318,25 +318,25 @@
   "type" : "topic",
   "url" : "\/documentation\/symbolkit\/unifiedsymbolgraph\/selector"
 },
-"doc://SymbolKit/documentation/SymbolKit/UnifiedSymbolGraph/Selector/Equatable-Implementations": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit/UnifiedSymbolGraph/Selector/Equatable-Implementations": {
   "abstract" : [
 
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/UnifiedSymbolGraph\/Selector\/Equatable-Implementations",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/UnifiedSymbolGraph\/Selector\/Equatable-Implementations",
   "kind" : "article",
   "role" : "collectionGroup",
   "title" : "Equatable Implementations",
   "type" : "topic",
   "url" : "\/documentation\/symbolkit\/unifiedsymbolgraph\/selector\/equatable-implementations"
 },
-"doc://SymbolKit/documentation/SymbolKit/UnifiedSymbolGraph/Selector/init(forSymbolGraph:)": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit/UnifiedSymbolGraph/Selector/init(forSymbolGraph:)": {
   "abstract" : [
     {
       "text" : "Creates a ",
       "type" : "text"
     },
     {
-      "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/UnifiedSymbolGraph\/Selector",
+      "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/UnifiedSymbolGraph\/Selector",
       "isActive" : true,
       "type" : "reference"
     },
@@ -372,14 +372,14 @@
       "text" : ")"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/UnifiedSymbolGraph\/Selector\/init(forSymbolGraph:)",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/UnifiedSymbolGraph\/Selector\/init(forSymbolGraph:)",
   "kind" : "symbol",
   "role" : "symbol",
   "title" : "init(forSymbolGraph:)",
   "type" : "topic",
   "url" : "\/documentation\/symbolkit\/unifiedsymbolgraph\/selector\/init(forsymbolgraph:)"
 },
-"doc://SymbolKit/documentation/SymbolKit/UnifiedSymbolGraph/Selector/init(interfaceLanguage:platform:)": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit/UnifiedSymbolGraph/Selector/init(interfaceLanguage:platform:)": {
   "abstract" : [
 
   ],
@@ -427,14 +427,14 @@
       "text" : "?)"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/UnifiedSymbolGraph\/Selector\/init(interfaceLanguage:platform:)",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/UnifiedSymbolGraph\/Selector\/init(interfaceLanguage:platform:)",
   "kind" : "symbol",
   "role" : "symbol",
   "title" : "init(interfaceLanguage:platform:)",
   "type" : "topic",
   "url" : "\/documentation\/symbolkit\/unifiedsymbolgraph\/selector\/init(interfacelanguage:platform:)"
 },
-"doc://SymbolKit/documentation/SymbolKit/UnifiedSymbolGraph/Selector/interfaceLanguage": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit/UnifiedSymbolGraph/Selector/interfaceLanguage": {
   "abstract" : [
     {
       "text" : "The interface language used for the symbol.",
@@ -464,14 +464,14 @@
       "text" : "String"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/UnifiedSymbolGraph\/Selector\/interfaceLanguage",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/UnifiedSymbolGraph\/Selector\/interfaceLanguage",
   "kind" : "symbol",
   "role" : "symbol",
   "title" : "interfaceLanguage",
   "type" : "topic",
   "url" : "\/documentation\/symbolkit\/unifiedsymbolgraph\/selector\/interfacelanguage"
 },
-"doc://SymbolKit/documentation/SymbolKit/UnifiedSymbolGraph/Selector/platform": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit/UnifiedSymbolGraph/Selector/platform": {
   "abstract" : [
     {
       "text" : "The platform that the symbol was built for.",
@@ -505,7 +505,7 @@
       "text" : "?"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/UnifiedSymbolGraph\/Selector\/platform",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/UnifiedSymbolGraph\/Selector\/platform",
   "kind" : "symbol",
   "role" : "symbol",
   "title" : "platform",

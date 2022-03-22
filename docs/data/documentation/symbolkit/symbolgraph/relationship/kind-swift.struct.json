@@ -8,15 +8,15 @@
   "hierarchy" : {
     "paths" : [
       [
-        "doc:\/\/SymbolKit\/documentation\/SymbolKit",
-        "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph",
-        "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Relationship"
+        "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit",
+        "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph",
+        "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Relationship"
       ]
     ]
   },
   "identifier" : {
     "interfaceLanguage" : "swift",
-    "url" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Relationship\/Kind-swift.struct"
+    "url" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Relationship\/Kind-swift.struct"
   },
   "kind" : "symbol",
   "metadata" : {
@@ -84,11 +84,11 @@
   "relationshipsSections" : [
     {
       "identifiers" : [
-        "doc:\/\/SymbolKit\/Se",
-        "doc:\/\/SymbolKit\/SE",
-        "doc:\/\/SymbolKit\/SQ",
-        "doc:\/\/SymbolKit\/SH",
-        "doc:\/\/SymbolKit\/SY"
+        "doc:\/\/org.swift.SymbolKit\/Se",
+        "doc:\/\/org.swift.SymbolKit\/SE",
+        "doc:\/\/org.swift.SymbolKit\/SQ",
+        "doc:\/\/org.swift.SymbolKit\/SH",
+        "doc:\/\/org.swift.SymbolKit\/SY"
       ],
       "kind" : "relationships",
       "title" : "Conforms To",
@@ -106,33 +106,33 @@
   "topicSections" : [
     {
       "identifiers" : [
-        "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Relationship\/Kind-swift.struct\/init(rawValue:)"
+        "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Relationship\/Kind-swift.struct\/init(rawValue:)"
       ],
       "title" : "Initializers"
     },
     {
       "identifiers" : [
-        "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Relationship\/Kind-swift.struct\/rawValue"
+        "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Relationship\/Kind-swift.struct\/rawValue"
       ],
       "title" : "Instance Properties"
     },
     {
       "identifiers" : [
-        "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Relationship\/Kind-swift.struct\/conformsTo",
-        "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Relationship\/Kind-swift.struct\/defaultImplementationOf",
-        "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Relationship\/Kind-swift.struct\/inheritsFrom",
-        "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Relationship\/Kind-swift.struct\/memberOf",
-        "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Relationship\/Kind-swift.struct\/optionalRequirementOf",
-        "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Relationship\/Kind-swift.struct\/overrides",
-        "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Relationship\/Kind-swift.struct\/requirementOf"
+        "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Relationship\/Kind-swift.struct\/conformsTo",
+        "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Relationship\/Kind-swift.struct\/defaultImplementationOf",
+        "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Relationship\/Kind-swift.struct\/inheritsFrom",
+        "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Relationship\/Kind-swift.struct\/memberOf",
+        "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Relationship\/Kind-swift.struct\/optionalRequirementOf",
+        "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Relationship\/Kind-swift.struct\/overrides",
+        "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Relationship\/Kind-swift.struct\/requirementOf"
       ],
       "title" : "Type Properties"
     },
     {
       "generated" : true,
       "identifiers" : [
-        "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Relationship\/Kind-swift.struct\/Equatable-Implementations",
-        "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Relationship\/Kind-swift.struct\/RawRepresentable-Implementations"
+        "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Relationship\/Kind-swift.struct\/Equatable-Implementations",
+        "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Relationship\/Kind-swift.struct\/RawRepresentable-Implementations"
       ],
       "title" : "Default Implementations"
     }
@@ -151,32 +151,32 @@
   ]
 , 
 "references": {
-"doc://SymbolKit/SE": {
-  "identifier" : "doc:\/\/SymbolKit\/SE",
+"doc://org.swift.SymbolKit/SE": {
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/SE",
   "title" : "Swift.Encodable",
   "type" : "unresolvable"
 },
-"doc://SymbolKit/SH": {
-  "identifier" : "doc:\/\/SymbolKit\/SH",
+"doc://org.swift.SymbolKit/SH": {
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/SH",
   "title" : "Swift.Hashable",
   "type" : "unresolvable"
 },
-"doc://SymbolKit/SQ": {
-  "identifier" : "doc:\/\/SymbolKit\/SQ",
+"doc://org.swift.SymbolKit/SQ": {
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/SQ",
   "title" : "Swift.Equatable",
   "type" : "unresolvable"
 },
-"doc://SymbolKit/SY": {
-  "identifier" : "doc:\/\/SymbolKit\/SY",
+"doc://org.swift.SymbolKit/SY": {
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/SY",
   "title" : "Swift.RawRepresentable",
   "type" : "unresolvable"
 },
-"doc://SymbolKit/Se": {
-  "identifier" : "doc:\/\/SymbolKit\/Se",
+"doc://org.swift.SymbolKit/Se": {
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/Se",
   "title" : "Swift.Decodable",
   "type" : "unresolvable"
 },
-"doc://SymbolKit/documentation/SymbolKit": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit": {
   "abstract" : [
     {
       "text" : "The specification and reference model for the ",
@@ -196,14 +196,14 @@
       "type" : "text"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit",
   "kind" : "symbol",
   "role" : "collection",
   "title" : "SymbolKit",
   "type" : "topic",
   "url" : "\/documentation\/symbolkit"
 },
-"doc://SymbolKit/documentation/SymbolKit/SymbolGraph": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit/SymbolGraph": {
   "abstract" : [
     {
       "text" : "A symbol graph is a set of ",
@@ -258,7 +258,7 @@
       "text" : "SymbolGraph"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph",
   "kind" : "symbol",
   "navigatorTitle" : [
     {
@@ -271,7 +271,7 @@
   "type" : "topic",
   "url" : "\/documentation\/symbolkit\/symbolgraph"
 },
-"doc://SymbolKit/documentation/SymbolKit/SymbolGraph/Relationship": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit/SymbolGraph/Relationship": {
   "abstract" : [
     {
       "text" : "A relationship between two ",
@@ -300,7 +300,7 @@
       "text" : "Relationship"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Relationship",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Relationship",
   "kind" : "symbol",
   "navigatorTitle" : [
     {
@@ -313,7 +313,7 @@
   "type" : "topic",
   "url" : "\/documentation\/symbolkit\/symbolgraph\/relationship"
 },
-"doc://SymbolKit/documentation/SymbolKit/SymbolGraph/Relationship/Kind-swift.struct": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit/SymbolGraph/Relationship/Kind-swift.struct": {
   "abstract" : [
     {
       "text" : "The kind of relationship.",
@@ -334,7 +334,7 @@
       "text" : "Kind"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Relationship\/Kind-swift.struct",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Relationship\/Kind-swift.struct",
   "kind" : "symbol",
   "navigatorTitle" : [
     {
@@ -347,29 +347,29 @@
   "type" : "topic",
   "url" : "\/documentation\/symbolkit\/symbolgraph\/relationship\/kind-swift.struct"
 },
-"doc://SymbolKit/documentation/SymbolKit/SymbolGraph/Relationship/Kind-swift.struct/Equatable-Implementations": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit/SymbolGraph/Relationship/Kind-swift.struct/Equatable-Implementations": {
   "abstract" : [
 
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Relationship\/Kind-swift.struct\/Equatable-Implementations",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Relationship\/Kind-swift.struct\/Equatable-Implementations",
   "kind" : "article",
   "role" : "collectionGroup",
   "title" : "Equatable Implementations",
   "type" : "topic",
   "url" : "\/documentation\/symbolkit\/symbolgraph\/relationship\/kind-swift.struct\/equatable-implementations"
 },
-"doc://SymbolKit/documentation/SymbolKit/SymbolGraph/Relationship/Kind-swift.struct/RawRepresentable-Implementations": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit/SymbolGraph/Relationship/Kind-swift.struct/RawRepresentable-Implementations": {
   "abstract" : [
 
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Relationship\/Kind-swift.struct\/RawRepresentable-Implementations",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Relationship\/Kind-swift.struct\/RawRepresentable-Implementations",
   "kind" : "article",
   "role" : "collectionGroup",
   "title" : "RawRepresentable Implementations",
   "type" : "topic",
   "url" : "\/documentation\/symbolkit\/symbolgraph\/relationship\/kind-swift.struct\/rawrepresentable-implementations"
 },
-"doc://SymbolKit/documentation/SymbolKit/SymbolGraph/Relationship/Kind-swift.struct/conformsTo": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit/SymbolGraph/Relationship/Kind-swift.struct/conformsTo": {
   "abstract" : [
     {
       "text" : "A symbol ",
@@ -441,14 +441,14 @@
       "text" : "Kind"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Relationship\/Kind-swift.struct\/conformsTo",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Relationship\/Kind-swift.struct\/conformsTo",
   "kind" : "symbol",
   "role" : "symbol",
   "title" : "conformsTo",
   "type" : "topic",
   "url" : "\/documentation\/symbolkit\/symbolgraph\/relationship\/kind-swift.struct\/conformsto"
 },
-"doc://SymbolKit/documentation/SymbolKit/SymbolGraph/Relationship/Kind-swift.struct/defaultImplementationOf": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit/SymbolGraph/Relationship/Kind-swift.struct/defaultImplementationOf": {
   "abstract" : [
     {
       "text" : "A symbol ",
@@ -528,14 +528,14 @@
       "text" : "Kind"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Relationship\/Kind-swift.struct\/defaultImplementationOf",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Relationship\/Kind-swift.struct\/defaultImplementationOf",
   "kind" : "symbol",
   "role" : "symbol",
   "title" : "defaultImplementationOf",
   "type" : "topic",
   "url" : "\/documentation\/symbolkit\/symbolgraph\/relationship\/kind-swift.struct\/defaultimplementationof"
 },
-"doc://SymbolKit/documentation/SymbolKit/SymbolGraph/Relationship/Kind-swift.struct/inheritsFrom": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit/SymbolGraph/Relationship/Kind-swift.struct/inheritsFrom": {
   "abstract" : [
     {
       "text" : "A symbol ",
@@ -607,14 +607,14 @@
       "text" : "Kind"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Relationship\/Kind-swift.struct\/inheritsFrom",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Relationship\/Kind-swift.struct\/inheritsFrom",
   "kind" : "symbol",
   "role" : "symbol",
   "title" : "inheritsFrom",
   "type" : "topic",
   "url" : "\/documentation\/symbolkit\/symbolgraph\/relationship\/kind-swift.struct\/inheritsfrom"
 },
-"doc://SymbolKit/documentation/SymbolKit/SymbolGraph/Relationship/Kind-swift.struct/init(rawValue:)": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit/SymbolGraph/Relationship/Kind-swift.struct/init(rawValue:)": {
   "abstract" : [
 
   ],
@@ -645,14 +645,14 @@
       "text" : ")"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Relationship\/Kind-swift.struct\/init(rawValue:)",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Relationship\/Kind-swift.struct\/init(rawValue:)",
   "kind" : "symbol",
   "role" : "symbol",
   "title" : "init(rawValue:)",
   "type" : "topic",
   "url" : "\/documentation\/symbolkit\/symbolgraph\/relationship\/kind-swift.struct\/init(rawvalue:)"
 },
-"doc://SymbolKit/documentation/SymbolKit/SymbolGraph/Relationship/Kind-swift.struct/memberOf": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit/SymbolGraph/Relationship/Kind-swift.struct/memberOf": {
   "abstract" : [
     {
       "text" : "A symbol ",
@@ -724,14 +724,14 @@
       "text" : "Kind"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Relationship\/Kind-swift.struct\/memberOf",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Relationship\/Kind-swift.struct\/memberOf",
   "kind" : "symbol",
   "role" : "symbol",
   "title" : "memberOf",
   "type" : "topic",
   "url" : "\/documentation\/symbolkit\/symbolgraph\/relationship\/kind-swift.struct\/memberof"
 },
-"doc://SymbolKit/documentation/SymbolKit/SymbolGraph/Relationship/Kind-swift.struct/optionalRequirementOf": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit/SymbolGraph/Relationship/Kind-swift.struct/optionalRequirementOf": {
   "abstract" : [
     {
       "text" : "A symbol ",
@@ -803,14 +803,14 @@
       "text" : "Kind"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Relationship\/Kind-swift.struct\/optionalRequirementOf",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Relationship\/Kind-swift.struct\/optionalRequirementOf",
   "kind" : "symbol",
   "role" : "symbol",
   "title" : "optionalRequirementOf",
   "type" : "topic",
   "url" : "\/documentation\/symbolkit\/symbolgraph\/relationship\/kind-swift.struct\/optionalrequirementof"
 },
-"doc://SymbolKit/documentation/SymbolKit/SymbolGraph/Relationship/Kind-swift.struct/overrides": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit/SymbolGraph/Relationship/Kind-swift.struct/overrides": {
   "abstract" : [
     {
       "text" : "A symbol ",
@@ -882,14 +882,14 @@
       "text" : "Kind"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Relationship\/Kind-swift.struct\/overrides",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Relationship\/Kind-swift.struct\/overrides",
   "kind" : "symbol",
   "role" : "symbol",
   "title" : "overrides",
   "type" : "topic",
   "url" : "\/documentation\/symbolkit\/symbolgraph\/relationship\/kind-swift.struct\/overrides"
 },
-"doc://SymbolKit/documentation/SymbolKit/SymbolGraph/Relationship/Kind-swift.struct/rawValue": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit/SymbolGraph/Relationship/Kind-swift.struct/rawValue": {
   "abstract" : [
 
   ],
@@ -916,14 +916,14 @@
       "text" : "String"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Relationship\/Kind-swift.struct\/rawValue",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Relationship\/Kind-swift.struct\/rawValue",
   "kind" : "symbol",
   "role" : "symbol",
   "title" : "rawValue",
   "type" : "topic",
   "url" : "\/documentation\/symbolkit\/symbolgraph\/relationship\/kind-swift.struct\/rawvalue"
 },
-"doc://SymbolKit/documentation/SymbolKit/SymbolGraph/Relationship/Kind-swift.struct/requirementOf": {
+"doc://org.swift.SymbolKit/documentation/SymbolKit/SymbolGraph/Relationship/Kind-swift.struct/requirementOf": {
   "abstract" : [
     {
       "text" : "A symbol ",
@@ -995,7 +995,7 @@
       "text" : "Kind"
     }
   ],
-  "identifier" : "doc:\/\/SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Relationship\/Kind-swift.struct\/requirementOf",
+  "identifier" : "doc:\/\/org.swift.SymbolKit\/documentation\/SymbolKit\/SymbolGraph\/Relationship\/Kind-swift.struct\/requirementOf",
   "kind" : "symbol",
   "role" : "symbol",
   "title" : "requirementOf",
